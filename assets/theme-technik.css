@@ -1,0 +1,80 @@
+/* Theme technik (it-haftpflichtcheck.de), Mockup-Runde 1 vom 13.11.2026: hellgrau, Kopf dunkel, Mono für Labels, Aktionsfarbe Blau nur auf Buttons.
+   Quelle: _design/theme-css-runde1/mockup-*.css, Präfix entfernt, Tokens nach :root; Mobilregeln aus mockup-mobil.css.
+   Navigation: statt Ausblenden einzelner Links scrollt die Navigation einzeilig (der Generator hat mehr als vier Links). */
+:root{--bg:#F3F4F6;--surface:#FFFFFF;--ink:#0F141B;--ink-2:#4B5563;--line:#D1D5DB;--brand:#1F2937;--action:#2563EB;--action-ink:#fff;--head:var(--sans);--label:var(--mono);--body:var(--sans);--radius:3px;--th-bg:#1F2937;--th-ink:#F9FAFB;--fs:15px;--lh:1.45;--h-w:600;--feld-rand:#6B7280}
+h2{letter-spacing:-.015em;font-size:21px}
+.kopf{background:#0F141B;color:#E5E7EB}
+.kopf-zeile{display:flex;align-items:center;justify-content:space-between;height:48px}
+.marke{display:flex;align-items:center;gap:10px;color:#fff;text-decoration:none;font:600 15px/1 var(--mono)}
+.monogramm{font:600 11px/1 var(--mono);border:1px solid #6B7280;color:#D1D5DB;padding:4px 5px;border-radius:2px}
+.marke-name::after{content:"_";color:#9CA3AF;margin-left:1px}
+.kopf .nav a{font:13px/1 var(--mono);color:#D1D5DB;margin-left:22px}
+.kopf :focus-visible{outline-color:#fff}
+.hero{padding:22px 0 8px}
+.hero-grid{display:grid;grid-template-columns:minmax(0,1fr) 404px;gap:28px;align-items:start}
+.eyebrow{font:13px/1 var(--mono);color:var(--ink-2);margin-bottom:10px}
+.hero h1{font-size:31px;line-height:1.14;font-weight:600;letter-spacing:-.028em}
+.antwort-box{margin-top:16px;background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--brand);padding:12px 16px}
+.antwort{font-size:15.5px;line-height:1.5}
+.stand{font:12px/1.3 var(--mono);margin-top:6px}
+.fakten{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));margin:16px 0 0;border:1px solid var(--line);background:var(--surface)}
+.fakten div{padding:10px 12px;border-right:1px solid var(--line)}
+.fakten div:last-child{border-right:0}
+.fakten dt{font:11px/1.2 var(--mono);text-transform:uppercase;letter-spacing:.06em;color:var(--ink-2)}
+.fakten dd{margin:4px 0 0;font:600 18px/1.2 var(--mono);color:var(--brand)}
+.panel{background:var(--surface);border:1px solid var(--line);padding:14px 14px 12px}
+.panel-titel{font:600 11.5px/1 var(--mono);text-transform:uppercase;letter-spacing:.08em;color:var(--ink-2);margin-bottom:10px}
+.panel-zweit{margin-top:14px}
+.panel-sub{font:11.5px/1.3 var(--mono);color:var(--ink-2);margin-top:10px}
+.gilt{font-size:13.5px;line-height:1.5}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font:12.5px/1 var(--mono);color:var(--ink);background:var(--surface);border:1px solid #6B7280;border-radius:3px;padding:7px 9px;text-decoration:none}
+.chip:hover{border-color:var(--brand);background:#F3F4F6}
+.chip.aktiv{background:var(--brand);border-color:var(--brand);color:#fff}
+.chips-klein .chip{font-size:11.5px;padding:6px 7px}
+.werkzeug{margin-top:18px}
+table{font-size:14px}
+th,td{padding:0 12px;height:36px}
+caption{padding:10px 12px;font-size:13px}
+caption .cap-titel{font-weight:600}
+caption .cap-sub{display:inline;margin-left:8px;font-size:12px}
+thead th{font-size:12px;letter-spacing:.02em;height:32px}
+thead th.leer{background:var(--th-bg)}
+.gruppe{color:#D1D5DB;font-weight:500}
+.num{font-size:13.5px}
+tbody tr:nth-child(even) th,tbody tr:nth-child(even) td{background:#F9FAFB}
+.preistabelle tbody tr:nth-child(even) th:first-child{background:#F9FAFB}
+.daten-fuss{font-size:13px}
+.annahmen,.hinweise{font-family:var(--sans)}
+.kz{font:12.5px/1 var(--mono)}
+.kz-nein{color:var(--ink-2)}
+.kz-offen{color:var(--ink-2);font-style:italic}
+.zwei{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,1fr);gap:32px}
+.checkliste li{display:flex;gap:12px;align-items:center;padding:10px 0;border-bottom:1px dashed var(--line);font-size:14px}
+.checkliste .box{flex:0 0 14px;height:14px;border:1.5px solid var(--brand);border-radius:1px}
+.lead,.makler{box-shadow:none}
+.faq summary{font-size:15px}
+.faq summary::after{font-family:var(--mono);font-size:20px}
+.linkliste a{font-size:14px}
+.preis-kompakt{background:var(--surface);border:1px solid var(--line);padding:10px 12px}
+.preis-kompakt p:first-child{font:600 15px/1.3 var(--mono)}
+.pk-tarif{font-family:var(--sans);font-weight:600}
+.pk-sub{font:11.5px/1.35 var(--mono);color:var(--ink-2);margin-top:4px}
+.eyebrow::before{content:"// "}
+.preistabelle th,.preistabelle td{padding:0 12px}
+table.daten th,table.daten td,table.vergleich th,table.vergleich td{padding:6px 12px}
+@media (max-width:640px){
+.kopf-zeile{height:46px}
+ .kopf .nav a{margin-left:12px;font-size:12px}
+ .hero{padding:16px 0 4px}
+ .hero-grid,.zwei{grid-template-columns:minmax(0,1fr);gap:14px}
+ .hero h1{font-size:23px}
+ .eyebrow{font-size:12px}
+ .antwort-box{margin-top:12px;padding:10px 12px}
+ .antwort{font-size:15px}
+ .chips{flex-wrap:nowrap;overflow-x:auto;padding-bottom:4px}
+ .chip{white-space:nowrap}
+ .panel-sub,.fakten{display:none}
+ .gilt{font-size:13px}
+ caption .cap-sub{display:block;margin-left:0}
+}

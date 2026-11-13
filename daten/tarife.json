@@ -1,0 +1,1038 @@
+{
+ "marke": "IT-Haftpflichtcheck",
+ "url": "https://it-haftpflichtcheck.de/",
+ "sparte": "it",
+ "datenstand": "27.10.2026",
+ "betreiber": "ENV Versicherungsmakler UG (haftungsbeschränkt), Sebastian Steinhuber, Berlin",
+ "hinweis": "Auswertung der Bedingungswerke, Leistungsübersichten und Antragsstrecken der genannten Versicherer durch Sebastian Steinhuber, Versicherungsmakler mit Erlaubnis nach § 34d Abs. 1 GewO. Tarifstand je Tarif angegeben. Die Daten umfassen nur die genannten Tarife und sind keine Bewertung. Maßgeblich sind allein die Bedingungen und das Angebot des Versicherers.",
+ "merkmale": [
+  {
+   "key": "baustein_bhv",
+   "label": "Betriebshaftpflicht",
+   "erklaerung": "Personen- und Sachschäden bei Dritten, etwa wenn beim Kundentermin jemand über dein Kabel stolpert und sich verletzt.",
+   "gruppe": "deckung"
+  },
+  {
+   "key": "baustein_cyber",
+   "label": "Cyber-Eigenschaden",
+   "erklaerung": "Deine eigenen Kosten nach einem Angriff auf deine Systeme.",
+   "gruppe": "bausteine"
+  },
+  {
+   "key": "eigenschaden_summe",
+   "label": "Eigenschaden",
+   "erklaerung": "Kosten, die dir selbst entstehen, ohne dass ein Kunde etwas von dir fordert, etwa wenn ein Projekt platzt oder jemand deine Domain übernimmt.",
+   "gruppe": "bausteine"
+  },
+  {
+   "key": "baustein_do",
+   "label": "D&O-Außenhaftung",
+   "erklaerung": "Ansprüche Dritter gegen deine Geschäftsführung wegen Pflichtverletzungen bei der Leitung der Gesellschaft.",
+   "gruppe": "bausteine"
+  },
+  {
+   "key": "berufsbild_it",
+   "label": "Offene Berufsbilddeckung IT",
+   "erklaerung": "Welche Tätigkeiten versichert sind: offen beschrieben oder so, wie sie im Versicherungsschein stehen.",
+   "gruppe": "taetigkeit"
+  },
+  {
+   "key": "beratung_medien",
+   "label": "Beratung und Medien neben IT",
+   "erklaerung": "Ob neben der IT-Tätigkeit auch Unternehmensberatung oder Medienarbeit ausdrücklich versichert ist.",
+   "gruppe": "taetigkeit"
+  },
+  {
+   "key": "ki_einsatz",
+   "label": "Einsatz und Entwicklung von KI",
+   "erklaerung": "Ob der Versicherer den Einsatz von KI-Werkzeugen in deiner Arbeit ausdrücklich im Bedingungswerk nennt.",
+   "gruppe": "taetigkeit"
+  },
+  {
+   "key": "vermoegensschaeden_dritter",
+   "label": "Vermögensschäden Dritter",
+   "erklaerung": "Dein Fehler kostet den Kunden Geld, ohne dass etwas kaputtgeht: etwa ein Rechenfehler in der Software, der zu falschen Rechnungen führt.",
+   "gruppe": "vermoegen"
+  },
+  {
+   "key": "gewinnentgang_programmierfehler",
+   "label": "Entgangener Gewinn durch Programmierfehler",
+   "erklaerung": "Ansprüche auf entgangenen Gewinn, wenn ein Fehler in deinem Code beim Kunden Umsatz kostet.",
+   "gruppe": "vermoegen"
+  },
+  {
+   "key": "verzugsschaden",
+   "label": "Verzugsschäden",
+   "erklaerung": "Ansprüche, wenn du später lieferst als vereinbart und dem Kunden dadurch ein Schaden entsteht.",
+   "gruppe": "vermoegen"
+  },
+  {
+   "key": "beratungsfehler",
+   "label": "Beratungsfehler",
+   "erklaerung": "Ansprüche, wenn du eine unpassende Lösung empfiehlst und der Kunde dadurch vergebliche Kosten hat.",
+   "gruppe": "vermoegen"
+  },
+  {
+   "key": "vertragsstrafen",
+   "label": "Vertragsstrafen",
+   "erklaerung": "Strafen, die du einem Kunden laut Vertrag zahlen musst, etwa wenn du eine Geheimhaltungsvereinbarung verletzt.",
+   "gruppe": "vermoegen"
+  },
+  {
+   "key": "urheber_marken_lizenzrechte",
+   "label": "Verletzung von Urheber-, Marken- und Lizenzrechten",
+   "erklaerung": "Wenn durch deine Arbeit fremde Urheber-, Marken- oder Lizenzrechte verletzt werden, etwa durch ein Bild ohne Nutzungsrecht auf einer Website, die du baust.",
+   "gruppe": "rechte"
+  },
+  {
+   "key": "datenschutz_persoenlichkeitsrechte",
+   "label": "Datenschutz und Persönlichkeitsrechte",
+   "erklaerung": "Ansprüche, wenn durch deine Arbeit personenbezogene Daten an Unbefugte geraten oder jemand in seinen Persönlichkeitsrechten verletzt wird.",
+   "gruppe": "rechte"
+  },
+  {
+   "key": "datenverlust_kunde",
+   "label": "Daten- und Cyber-Drittschäden",
+   "erklaerung": "Ansprüche, wenn Daten deines Kunden durch deinen Fehler verloren gehen, durch Schadsoftware beschädigt werden oder an Unbefugte geraten.",
+   "gruppe": "rechte"
+  },
+  {
+   "key": "freie_mitarbeiter",
+   "label": "Fehler von (freien) Mitarbeitern",
+   "erklaerung": "Ansprüche wegen Fehlern deiner Angestellten und eingegliederten freien Mitarbeiter.",
+   "gruppe": "partner"
+  },
+  {
+   "key": "subunternehmer",
+   "label": "Subunternehmer",
+   "erklaerung": "Fehler von Subunternehmern, die du in ein Projekt einbindest.",
+   "gruppe": "partner"
+  },
+  {
+   "key": "abwehr_unberechtigter_ansprueche",
+   "label": "Abwehr unberechtigter Ansprüche",
+   "erklaerung": "Der Versicherer prüft, ob eine Forderung berechtigt ist, und wehrt unberechtigte Forderungen ab, notfalls vor Gericht.",
+   "gruppe": "partner"
+  },
+  {
+   "key": "geltungsbereich_vermoegensschaeden",
+   "label": "Geltungsbereich Vermögensschäden",
+   "erklaerung": "Wo Ansprüche gegen dich geltend gemacht werden dürfen.",
+   "gruppe": "geltung"
+  },
+  {
+   "key": "usa_vermoegensschaeden",
+   "label": "Vermögensschäden in den USA",
+   "erklaerung": "Ob Ansprüche versichert sind, die in den USA geltend gemacht werden.",
+   "gruppe": "geltung"
+  },
+  {
+   "key": "rueckwaertsdeckung",
+   "label": "Rückwärtsdeckung",
+   "erklaerung": "Ob Fehler versichert sind, die vor Vertragsbeginn passiert sind und erst später auffallen.",
+   "gruppe": "geltung"
+  },
+  {
+   "key": "nachmeldefrist",
+   "label": "Nachmeldefrist",
+   "erklaerung": "Wie lange du nach Vertragsende noch Fälle melden kannst, die in die Vertragszeit fallen.",
+   "gruppe": "geltung"
+  },
+  {
+   "key": "nachhaftung",
+   "label": "Nachhaftung bei Betriebsaufgabe",
+   "erklaerung": "Ob du noch versichert bist, wenn nach dem Ende deines Betriebs Ansprüche aus früheren Aufträgen kommen.",
+   "gruppe": "geltung"
+  }
+ ],
+ "tarife": [
+  {
+   "id": "t3",
+   "marke": "andsafe",
+   "rechtstraeger": null,
+   "tarifstand": "05.10.2026",
+   "online_antrag": true,
+   "url": "https://it-haftpflichtcheck.de/tarife/andsafe/",
+   "merkmale": {
+    "baustein_bhv": {
+     "wert": "baustein",
+     "einordnung": "als Baustein",
+     "grenze": "3, 5 oder 10 Mio. €",
+     "fundstelle": "eigenes Produkt andsafe BHV; T t3 Block bhv; Fachlauf A7-A9 24.10.2026: AB S. 39, Ziff. 3.1.1"
+    },
+    "baustein_cyber": {
+     "wert": "nicht_waehlbar",
+     "einordnung": "nicht wählbar",
+     "grenze": null,
+     "fundstelle": "A S. 25, 2.8.4 nur Drittschaden"
+    },
+    "eigenschaden_summe": {
+     "wert": "angabe",
+     "einordnung": "je Position 25.000 € bis 300.000 €",
+     "grenze": null,
+     "fundstelle": null
+    },
+    "baustein_do": {
+     "wert": "nicht_waehlbar",
+     "einordnung": "nicht wählbar",
+     "grenze": null,
+     "fundstelle": "A S. 31, 3.1 organschaftliche Tätigkeit ausgeschlossen"
+    },
+    "berufsbild_it": {
+     "wert": "kein_offenes",
+     "einordnung": "kein offenes Berufsbild",
+     "grenze": null,
+     "fundstelle": "A S. 21, 2.1 'aus der beruflichen Tätigkeit, die im Versicherungsschein oder seinen Nachträgen aufgeführt ist' (kein offenes Berufsbild, Feedback Sebastian 16.10.2026)"
+    },
+    "beratung_medien": {
+     "wert": "laut_police",
+     "einordnung": "laut Police",
+     "grenze": null,
+     "fundstelle": "A S. 21, 2.1"
+    },
+    "ki_einsatz": {
+     "wert": "nicht_ausdruecklich_genannt",
+     "einordnung": "nicht ausdrücklich genannt",
+     "grenze": null,
+     "fundstelle": "A, AL: 0 Treffer 'Künstliche' (Positivfall MB, H); Fachlauf A7-A9 24.10.2026: A S. 21, 2.1"
+    },
+    "vermoegensschaeden_dritter": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "A S. 21, 2.1; S. 24, 2.7.3 bis 2.7.5"
+    },
+    "gewinnentgang_programmierfehler": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "A S. 24, 2.7.4"
+    },
+    "verzugsschaden": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "A S. 25, 2.8.1 (Grenze 2.7.6 wissentlich)"
+    },
+    "beratungsfehler": {
+     "wert": "laut_police",
+     "einordnung": "laut Police",
+     "grenze": null,
+     "fundstelle": "A S. 21, 2.1 i. V. m. S. 24, 2.7.4"
+    },
+    "vertragsstrafen": {
+     "wert": "angabe",
+     "einordnung": "mitversichert bei Verletzung von Geheimhaltung oder Datenschutz",
+     "grenze": null,
+     "fundstelle": "A S. 26, Ziff. 2.8.7; S. 31, Ziff. 3.1 (Fachlauf A7-A9 24.10.2026)"
+    },
+    "urheber_marken_lizenzrechte": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "A S. 25 bis 26, 2.8.5; Patent bis 100.000 Euro 2.8.6"
+    },
+    "datenschutz_persoenlichkeitsrechte": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "A S. 25, 2.8.3; S. 26, 2.8.5"
+    },
+    "datenverlust_kunde": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "A S. 24, 2.7.2; S. 25, 2.8.3 und 2.8.4"
+    },
+    "freie_mitarbeiter": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "A S. 20, 1.2 freie Mitarbeiter ohne eigenen gleichartigen Schutz"
+    },
+    "subunternehmer": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "A S. 20, 1.3"
+    },
+    "abwehr_unberechtigter_ansprueche": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "A S. 42, 10.3"
+    },
+    "geltungsbereich_vermoegensschaeden": {
+     "wert": "weltweit",
+     "einordnung": "weltweit",
+     "grenze": null,
+     "fundstelle": "A S. 42, 9; USA-Ausschlüsse S. 32, 3.2"
+    },
+    "usa_vermoegensschaeden": {
+     "wert": "angabe",
+     "einordnung": "auch in den USA und Kanada",
+     "grenze": null,
+     "fundstelle": null
+    },
+    "rueckwaertsdeckung": {
+     "wert": "angabe",
+     "einordnung": "6 Monate, bei Neugründung 12 Monate",
+     "grenze": null,
+     "fundstelle": null
+    },
+    "nachmeldefrist": {
+     "wert": "angabe",
+     "einordnung": "unbegrenzt",
+     "grenze": null,
+     "fundstelle": null
+    },
+    "nachhaftung": {
+     "wert": "angabe",
+     "einordnung": "zeitlich unbegrenzt für Verstöße bis Vertragsende",
+     "grenze": null,
+     "fundstelle": "A S. 40, Ziff. 7.1; S. 41, Ziff. 8.1 und 8.2; AL (Fachlauf A7-A9 24.10.2026)"
+    }
+   }
+  },
+  {
+   "id": "t6",
+   "marke": "AXA IT-Police Haftpflicht Kompakt",
+   "rechtstraeger": null,
+   "tarifstand": "09/2026",
+   "online_antrag": false,
+   "url": "https://it-haftpflichtcheck.de/tarife/axa-it-police-haftpflicht-kompakt/",
+   "merkmale": {
+    "baustein_bhv": {
+     "wert": "enthalten",
+     "einordnung": "pauschal enthalten",
+     "grenze": "3 Mio. €",
+     "fundstelle": "XA S. 2 Zeile \"Pauschal für Personen- und Sachschäden 3.000.000 6.000.000 250 15.000\" in jeder Variante; Teil B Kapitel 1 XA S. 21, Ziff. 1.1.3.1"
+    },
+    "baustein_cyber": {
+     "wert": "nicht_waehlbar",
+     "einordnung": "nicht wählbar",
+     "grenze": null,
+     "fundstelle": "XA S. 2 einziger Zusatzbaustein ist Eigenschäden; Website-Wiederherstellung und Aufwendungen nach Datenschutzverletzung nur im Eigenschaden-Baustein XA S. 28, Teil B Ziff. 2.5.4 und 2.5.5"
+    },
+    "eigenschaden_summe": {
+     "wert": "baustein",
+     "einordnung": "als Baustein",
+     "grenze": "150.000 €, Selbstbeteiligung 500 €",
+     "fundstelle": "XA S. 2 Zusatzbaustein Mehrbeitrag 120 EUR, Sublimit 150.000; XA S. 3 Sublimit-Tabelle Vermögens-Eigenschäden 150.000/150.000, SB 500; XA S. 28, Teil B Ziff. 2.5.1 bis 2.5.6"
+    },
+    "baustein_do": {
+     "wert": "nicht_waehlbar",
+     "einordnung": "nicht wählbar",
+     "grenze": null,
+     "fundstelle": "XA S. 2 kein D&O-Baustein; Ausschluss Organtätigkeit XA S. 28, Teil B Ziff. 2.2.6"
+    },
+    "berufsbild_it": {
+     "wert": "kein_offenes",
+     "einordnung": "kein offenes Berufsbild",
+     "grenze": null,
+     "fundstelle": "XA S. 21, Teil B Ziff. 1.2 \"aus allen seinen sich aus der Betriebsbeschreibung gemäß der Individuellen Vertragsvereinbarungen ergebenden Eigenschaften, Rechtsverhältnissen und Tätigkeiten\"; XA S. 2 Risikofrage 1 \"ausschließlich IT-bezogene Tätigkeiten für Dritte ..., wie z. B. ...\"; Ausschluss planende Tätigkeit XA S. 28, Ziff. 2.2.7"
+    },
+    "beratung_medien": {
+     "wert": "nicht_ausdruecklich_genannt",
+     "einordnung": "nicht ausdrücklich genannt",
+     "grenze": null,
+     "fundstelle": "XA S. 2 Risikofrage 1 (nur IT-bezogene Tätigkeiten; Beispiele IT-Beratung, Digitalagentur, Webdesign); Teil B nennt Unternehmensberatung und Medien nicht (Volltextsuche 'Unternehmensberatung', 'Medien': keine Tätigkeitsnennung); Beratung nur als Ursache von Vermögensschäden aus IT-Leistungen XA S. 27, Ziff. 2.1"
+    },
+    "ki_einsatz": {
+     "wert": "nicht_ausdruecklich_genannt",
+     "einordnung": "nicht ausdrücklich genannt",
+     "grenze": null,
+     "fundstelle": "XA Volltext 37 S.: 0 Treffer für 'KI' und 'künstliche Intelligenz' (Positivkontrolle im selben Lauf: 'Software' 14 Treffer); Tätigkeit laut Betriebsbeschreibung XA S. 21, Ziff. 1.2; Beispielliste 'wie z. B.' XA S. 2"
+    },
+    "vermoegensschaeden_dritter": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "XA S. 27, Teil B Ziff. 2.1 (gesetzliche Haftpflicht für Vermögensschäden inklusive immaterieller Schäden aus Hard- und Software, Arbeiten oder sonstigen Leistungen); Summen und SB XA S. 2 Variante 1 bis 3"
+    },
+    "gewinnentgang_programmierfehler": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "XA S. 27, Teil B Ziff. 2.1.1 (Folgeschäden der Nutzung eines mangelhaften Vertragsgegenstandes oder eines Nutzungsausfalls, abweichend von Ziff. 1.5.3 (1) und (3)); XA S. 3 Sublimit \"Vermögensschäden durch Betriebsunterbrechung/Gewinnausfall für unmittelbare Auftraggeber des Versicherungsnehmers und Dritte\" je nach Variante (= volle VS)"
+    },
+    "verzugsschaden": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "XA S. 27, Teil B Ziff. 2.1.4 (Verzug mitversichert, außer bei vorsätzlich oder grob fahrlässig fehlerhafter Leistungseinschätzung oder Zeitplanung); Versicherungsfall bei Verzug = Anspruchserhebung in Textform XA S. 28, Ziff. 2.3 (2)"
+    },
+    "beratungsfehler": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "XA S. 27, Teil B Ziff. 2.1 \"sowie aus fehlerhafter Beratung/Sachverständigentätigkeit/Schulung\"; vergebliche Aufwendungen Ziff. 2.1.1 Abs. 2"
+    },
+    "vertragsstrafen": {
+     "wert": "angabe",
+     "einordnung": "mitversichert, wenn durch einen versicherten Schaden ausgelöst, bis 150.000 €, Selbstbeteiligung 500 €",
+     "grenze": null,
+     "fundstelle": "XA S. 28, Teil B Ziff. 2.1.7 (Vertragsstrafen, sofern durch einen Versicherungsfall nach Ziff. 2.3 ausgelöst); XA S. 3 Sublimit 150.000/150.000, SB 500"
+    },
+    "urheber_marken_lizenzrechte": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "XA S. 27, Teil B Ziff. 2.1.3 Rechtsverletzungen (gewerbliche Schutzrechte, Patent-, Marken-, Namens-, Urheberrechte, Persönlichkeitsrechte, Wettbewerb und Werbung), Ausschluss Patentrechtsverletzungen USA/US-Territorien; XA S. 3 Sublimit \"Schäden aus Rechtsverletzungen (Teil B Kapitel 2)\" 250.000/250.000; Unterlassungsverfahren XA S. 24, Ziff. 1.20.7"
+    },
+    "datenschutz_persoenlichkeitsrechte": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "XA S. 27, Teil B Ziff. 2.1 (Vermögensschäden inklusive immaterieller Schäden, insbesondere aus Speicherung, Übermittlung und Verarbeitung elektronischer Daten) und Ziff. 2.1.3 (Persönlichkeitsrechte, Sublimit Rechtsverletzungen 250.000 XA S. 3); Datenschutzbeauftragter mitversichert XA S. 21, Ziff. 1.6.1 (1); Ansprüche Mitversicherter untereinander aus Datenschutzgesetzen XA S. 22, Ziff. 1.7 (3)"
+    },
+    "datenverlust_kunde": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "XA S. 21, Teil B Ziff. 1.1.3.1 und XA S. 27, Ziff. 2.1 (Verlust, Veränderung, Blockade elektronischer Daten gelten als Vermögensschaden; Verbreitung von Schadsoftware, Blockierung des Internetzugangs Dritter, Veränderung von Webseiten Dritter); Ausschluss Zahlungsvorgänge XA S. 28, Ziff. 2.2.1"
+    },
+    "freie_mitarbeiter": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "XA S. 21, Teil B Ziff. 1.6.1 (2) Betriebsangehörige einschließlich eingegliederter Mitarbeiter fremder Unternehmen und (4) \"der freiberuflich tätigen Mitarbeiter, soweit sie sich aus Tätigkeiten für den Versicherungsnehmer herleitet und hierfür nicht durch eine andere Versicherung Versicherungsschutz besteht\""
+    },
+    "subunternehmer": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "XA S. 25, Teil B Ziff. 1.20.13 Subunternehmerbeauftragung (gilt über Kapitel 2 Einleitung XA S. 27 ergänzend auch für Vermögensschäden)"
+    },
+    "abwehr_unberechtigter_ansprueche": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "XA S. 22, Teil B Ziff. 1.11.1 (Prüfung der Haftpflichtfrage, Abwehr unberechtigter Ansprüche, Freistellung) und Ziff. 1.12.6 (Kosten nicht auf die Versicherungssummen angerechnet); Ausnahme USA/Kanada XA S. 24, Ziff. 1.20.6.5; Abwehr auch unterhalb der SB XA S. 22, Ziff. 1.12.4"
+    },
+    "geltungsbereich_vermoegensschaeden": {
+     "wert": "weltweit",
+     "einordnung": "weltweit",
+     "grenze": null,
+     "fundstelle": "XA S. 23 bis 24, Teil B Ziff. 1.20.6.1 Auslandsschäden (Geschäftsreisen, Leistungen im Ausland, indirekte und direkte Exporte; über Kapitel 2 Einleitung XA S. 27 ergänzend); XA S. 2 und 3 SB-Spalte \"Sach- und Vermögensschäden weltweit, außerhalb USA/US-Territorien oder Kanada\""
+    },
+    "usa_vermoegensschaeden": {
+     "wert": "angabe",
+     "einordnung": "bis 75.000 € Umsatz dort, Selbstbeteiligung 15.000 € je Anspruch",
+     "grenze": null,
+     "fundstelle": "XA S. 24, Teil B Ziff. 1.20.6.1 (Umsätze USA/US-Territorien/Kanada bis 75.000 EUR pro Jahr beitragsfrei mitversichert), Ziff. 1.20.6.5 (Kosten angerechnet); SB 15.000 je Einzelanspruch XA S. 22, Ziff. 1.12.5 und XA S. 2; Ausschluss Patentrechtsverletzungen USA XA S. 27, Ziff. 2.1.3; Risikofrage 3 XA S. 2"
+    },
+    "rueckwaertsdeckung": {
+     "wert": "angabe",
+     "einordnung": "ohne Rückwärtsversicherung, frühere Leistungen mitversichert",
+     "grenze": null,
+     "fundstelle": "XA S. 28, Teil B Ziff. 2.3 und S. 21, Ziff. 1.5.1 (Schadenereignis, Zeitpunkt der Verursachung unerheblich); XA S. 22, Ziff. 1.16.1 Vorumsätze (Leistungen vor Inkrafttreten, Versicherungsfall während der Vertragszeit); Ziff. 1.16.2 XA S. 23 nur Erzeugnisse bei Vorversicherer-Nachmeldefrist; Volltextsuche 'Rückwärts' in Teil A und B: 0 Treffer (Positivkontrolle 'Nachmeldefrist' trifft); RPC nur für Verträge nach Versicherungsbeginn XA S. 28, Ziff. 2.5.6"
+    },
+    "nachmeldefrist": {
+     "wert": "angabe",
+     "einordnung": "5 Jahre nach Vertragsende",
+     "grenze": null,
+     "fundstelle": "XA S. 28, Teil B Ziff. 2.4 (5 Jahre nach Vertragsende; gilt nicht bei unverschuldeter Fristversäumnis)"
+    },
+    "nachhaftung": {
+     "wert": "angabe",
+     "einordnung": "5 Jahre bei dauerhafter Betriebseinstellung",
+     "grenze": null,
+     "fundstelle": "XA S. 23, Teil B Ziff. 1.17 (nur bei vollständiger und dauerhafter Betriebs- oder Liefereinstellung, nicht bei Rechtsformänderung oder Kündigung; unverbrauchter Teil von VS und Jahreshöchstleistung)"
+    }
+   }
+  },
+  {
+   "id": "t1",
+   "marke": "Markel Pro IT",
+   "rechtstraeger": null,
+   "tarifstand": "19.08.2026",
+   "online_antrag": true,
+   "url": "https://it-haftpflichtcheck.de/tarife/markel-pro-it/",
+   "merkmale": {
+    "baustein_bhv": {
+     "wert": "baustein",
+     "einordnung": "als Baustein",
+     "grenze": "3, 5 oder 10 Mio. €",
+     "fundstelle": "MB S. 17, B (sofern im Versicherungsschein vereinbart); M S. 5"
+    },
+    "baustein_cyber": {
+     "wert": "baustein",
+     "einordnung": "als Baustein",
+     "grenze": "100.000 €, Selbstbeteiligung 1.000 €",
+     "fundstelle": "MB S. 15, A.7; M S. 5"
+    },
+    "eigenschaden_summe": {
+     "wert": "baustein",
+     "einordnung": "als Baustein",
+     "grenze": "je Position 25.000 € bis 300.000 €",
+     "fundstelle": null
+    },
+    "baustein_do": {
+     "wert": "baustein",
+     "einordnung": "als Baustein",
+     "grenze": "100.000 €",
+     "fundstelle": "MB S. 16, A.8; M S. 5"
+    },
+    "berufsbild_it": {
+     "wert": "offen",
+     "einordnung": "offen",
+     "grenze": null,
+     "fundstelle": "MB S. 4, A.1.1 'im Sinne einer offenen Berufsbilddeckung'"
+    },
+    "beratung_medien": {
+     "wert": "ausdruecklich_genannt",
+     "einordnung": "ausdrücklich genannt",
+     "grenze": null,
+     "fundstelle": "MB S. 5 bis 6, A.1.2 und A.1.3"
+    },
+    "ki_einsatz": {
+     "wert": "ausdruecklich_genannt",
+     "einordnung": "ausdrücklich genannt",
+     "grenze": null,
+     "fundstelle": "MB S. 4, A.1.1 'Einsatz und Programmierung von KI'; S. 7, A.1.6"
+    },
+    "vermoegensschaeden_dritter": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "MB S. 8, A.2.1 bis A.2.6"
+    },
+    "gewinnentgang_programmierfehler": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "MB S. 8, A.2.5; S. 4, A.1.1 Programmierung"
+    },
+    "verzugsschaden": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "MB S. 9, A.3.1 (Grenze S. 23, E.1.4 wissentlich)"
+    },
+    "beratungsfehler": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "MB S. 4, A.1.1; S. 5, A.1.2; S. 8, A.2.5"
+    },
+    "vertragsstrafen": {
+     "wert": "angabe",
+     "einordnung": "mitversichert bei Verletzung von Geheimhaltung oder Datenschutz",
+     "grenze": null,
+     "fundstelle": null
+    },
+    "urheber_marken_lizenzrechte": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "MB S. 9, A.3.3; Patent bis 300.000 Euro A.3.4"
+    },
+    "datenschutz_persoenlichkeitsrechte": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "MB S. 9, A.3.2 und A.3.3"
+    },
+    "datenverlust_kunde": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "MB S. 8, A.2.2; S. 9, A.3.2"
+    },
+    "freie_mitarbeiter": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "MB S. 21, C.1 freie Mitarbeiter (natürliche Personen)"
+    },
+    "subunternehmer": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "MB S. 22, C.3"
+    },
+    "abwehr_unberechtigter_ansprueche": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "MB S. 32, H.1; S. 33, H.3"
+    },
+    "geltungsbereich_vermoegensschaeden": {
+     "wert": "weltweit",
+     "einordnung": "weltweit",
+     "grenze": null,
+     "fundstelle": "MB S. 23, D"
+    },
+    "usa_vermoegensschaeden": {
+     "wert": "angabe",
+     "einordnung": "auch in den USA",
+     "grenze": null,
+     "fundstelle": null
+    },
+    "rueckwaertsdeckung": {
+     "wert": "angabe",
+     "einordnung": "6 Monate, bei Neugründung 12 Monate",
+     "grenze": null,
+     "fundstelle": null
+    },
+    "nachmeldefrist": {
+     "wert": "angabe",
+     "einordnung": "unbegrenzt",
+     "grenze": null,
+     "fundstelle": null
+    },
+    "nachhaftung": {
+     "wert": "angabe",
+     "einordnung": "10 Jahre bei dauerhafter Aufgabe der Tätigkeit",
+     "grenze": null,
+     "fundstelle": null
+    }
+   }
+  },
+  {
+   "id": "t2",
+   "marke": "Net IT by Hiscox",
+   "rechtstraeger": null,
+   "tarifstand": "10/2025",
+   "online_antrag": true,
+   "url": "https://it-haftpflichtcheck.de/tarife/net-it-by-hiscox/",
+   "merkmale": {
+    "baustein_bhv": {
+     "wert": "baustein",
+     "einordnung": "als Baustein",
+     "grenze": "3, 5 oder 10 Mio. €",
+     "fundstelle": "HA S. 6 Zusatz-Modul 3/5/10 Mio."
+    },
+    "baustein_cyber": {
+     "wert": "baustein",
+     "einordnung": "als Baustein",
+     "grenze": "100.000 €, Selbstbeteiligung 1.000 €",
+     "fundstelle": "HA S. 7 'Zusatz-Modul: CyberClear Start'; Rechner-Tableau t2 grids k/g (Korrektur 16.10.2026, vorher irrig 'im Rechner nicht wählbar')"
+    },
+    "eigenschaden_summe": {
+     "wert": "baustein",
+     "einordnung": "als Baustein",
+     "grenze": "je Position bis 125.000 € (Umsatz bis 250.000 €), darüber bis 300.000 €; Domainschutz 25.000 €",
+     "fundstelle": null
+    },
+    "baustein_do": {
+     "wert": "nicht_waehlbar",
+     "einordnung": "nicht wählbar",
+     "grenze": null,
+     "fundstelle": "HA S. 16 Modulliste ohne D&O"
+    },
+    "berufsbild_it": {
+     "wert": "offen",
+     "einordnung": "offen",
+     "grenze": null,
+     "fundstelle": "H S. 3, I.1 'insbesondere' (nicht abschließende Liste)"
+    },
+    "beratung_medien": {
+     "wert": "ausdruecklich_genannt",
+     "einordnung": "ausdrücklich genannt",
+     "grenze": null,
+     "fundstelle": "HA S. 16 bis 17 Besondere Deckungsvereinbarungen"
+    },
+    "ki_einsatz": {
+     "wert": "ausdruecklich_genannt",
+     "einordnung": "ausdrücklich genannt",
+     "grenze": null,
+     "fundstelle": "H S. 3, I.1 'verwendet oder entwickelt'"
+    },
+    "vermoegensschaeden_dritter": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "H S. 3 bis 4, I.2.1.1"
+    },
+    "gewinnentgang_programmierfehler": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "H S. 4, I.2.1.1 entgangener Gewinn; S. 3, I.1 Programmierung"
+    },
+    "verzugsschaden": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "H S. 4, I.2.1.1 Verzögerungsschäden"
+    },
+    "beratungsfehler": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "H S. 3, I.1 IT-Beratung; HA S. 17"
+    },
+    "vertragsstrafen": {
+     "wert": "angabe",
+     "einordnung": "mitversichert bei Verletzung von Geheimhaltung oder Datenschutz, bis 125.000 € bzw. 300.000 €",
+     "grenze": null,
+     "fundstelle": null
+    },
+    "urheber_marken_lizenzrechte": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "H S. 4, I.2.1.1 ohne Patent (II.9)"
+    },
+    "datenschutz_persoenlichkeitsrechte": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "H S. 4, I.2.1.1"
+    },
+    "datenverlust_kunde": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "H S. 3 bis 4, I.2.1.1"
+    },
+    "freie_mitarbeiter": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "H S. 10, III.1 freie Mitarbeiter"
+    },
+    "subunternehmer": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "H S. 10, III.2"
+    },
+    "abwehr_unberechtigter_ansprueche": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "H S. 14, VII.1 und VII.3"
+    },
+    "geltungsbereich_vermoegensschaeden": {
+     "wert": "weltweit",
+     "einordnung": "weltweit",
+     "grenze": null,
+     "fundstelle": "H S. 13, VI.1; Kostenanrechnung USA/Kanada S. 15, VII.8.1"
+    },
+    "usa_vermoegensschaeden": {
+     "wert": "angabe",
+     "einordnung": "auch in den USA und Kanada",
+     "grenze": null,
+     "fundstelle": null
+    },
+    "rueckwaertsdeckung": {
+     "wert": "angabe",
+     "einordnung": "6 Monate, wenn kein Vorvertrag bestand",
+     "grenze": null,
+     "fundstelle": null
+    },
+    "nachmeldefrist": {
+     "wert": "angabe",
+     "einordnung": "unbegrenzt",
+     "grenze": null,
+     "fundstelle": null
+    },
+    "nachhaftung": {
+     "wert": "angabe",
+     "einordnung": "5 Jahre bei dauerhafter Aufgabe der Tätigkeit",
+     "grenze": null,
+     "fundstelle": null
+    }
+   }
+  },
+  {
+   "id": "t4",
+   "marke": "VHV Firmenprotect IT",
+   "rechtstraeger": null,
+   "tarifstand": "01.10.2026",
+   "online_antrag": true,
+   "url": "https://it-haftpflichtcheck.de/tarife/vhv-firmenprotect-it/",
+   "merkmale": {
+    "baustein_bhv": {
+     "wert": "enthalten",
+     "einordnung": "pauschal enthalten",
+     "grenze": "5 Mio. €",
+     "fundstelle": "VT Tarif VI BTB Ziff. 4; VP S. 1"
+    },
+    "baustein_cyber": {
+     "wert": "nicht_waehlbar",
+     "einordnung": "nicht wählbar",
+     "grenze": null,
+     "fundstelle": "V S. 60, A6-3.1.6 nur Drittschaden"
+    },
+    "eigenschaden_summe": {
+     "wert": "enthalten",
+     "einordnung": "pauschal enthalten",
+     "grenze": "je Position 20.000 € bis 300.000 €",
+     "fundstelle": null
+    },
+    "baustein_do": {
+     "wert": "nicht_waehlbar",
+     "einordnung": "nicht wählbar",
+     "grenze": null,
+     "fundstelle": "V ohne D&O-Abschnitt; Fachlauf A7-A9 24.10.2026: V S. 1, Aufbau"
+    },
+    "berufsbild_it": {
+     "wert": "kein_offenes",
+     "einordnung": "kein offenes Berufsbild",
+     "grenze": null,
+     "fundstelle": "V S. 58, A6-1.1 'ausschließlich' laut Betriebsbeschreibung; VT BTB 7 reine IT-Dienstleister (kein offenes Berufsbild, Feedback Sebastian 16.10.2026)"
+    },
+    "beratung_medien": {
+     "wert": "nicht_waehlbar",
+     "einordnung": "nicht wählbar",
+     "grenze": null,
+     "fundstelle": "VT BTB 10b: Unternehmensberatung außerhalb IT wird nicht gezeichnet"
+    },
+    "ki_einsatz": {
+     "wert": "nicht_ausdruecklich_genannt",
+     "einordnung": "nicht ausdrücklich genannt",
+     "grenze": null,
+     "fundstelle": "V, VP, VT: 0 Treffer (Positivfall MB, H); Fachlauf A7-A9 24.10.2026: V S. 58, A6-1.2"
+    },
+    "vermoegensschaeden_dritter": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "V S. 58, A6-1.2"
+    },
+    "gewinnentgang_programmierfehler": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "V S. 59, A6-3.1.4; S. 58, A6-1.2"
+    },
+    "verzugsschaden": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "V S. 59, A6-3.1.1 (nicht bei vorsätzlich oder grob fahrlässig falscher Ressourceneinschätzung)"
+    },
+    "beratungsfehler": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "V S. 58, A6-1.2 IT-Beratung; S. 59, A6-3.1.4"
+    },
+    "vertragsstrafen": {
+     "wert": "angabe",
+     "einordnung": "mitversichert bei Verletzung von Geheimhaltung oder Datenschutz, Höchstbetrag auf Anfrage",
+     "grenze": null,
+     "fundstelle": null
+    },
+    "urheber_marken_lizenzrechte": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "V S. 60, A6-3.1.7.1 inkl. Patent"
+    },
+    "datenschutz_persoenlichkeitsrechte": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "V S. 60, A6-3.1.6 und A6-3.1.7.1"
+    },
+    "datenverlust_kunde": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "V S. 58, A6-1.2 letzter Absatz; S. 60, A6-3.1.6"
+    },
+    "freie_mitarbeiter": {
+     "wert": "nicht_ausdruecklich_genannt",
+     "einordnung": "nicht ausdrücklich genannt",
+     "grenze": null,
+     "fundstelle": "V S. 4, A1-2.1.2 nur Betriebsangehörige und überlassene Arbeitnehmer"
+    },
+    "subunternehmer": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "V S. 7, A1-6.2.1"
+    },
+    "abwehr_unberechtigter_ansprueche": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "V S. 5, A1-4.1"
+    },
+    "geltungsbereich_vermoegensschaeden": {
+     "wert": "nur_europa",
+     "einordnung": "nur Europa",
+     "grenze": null,
+     "fundstelle": "V S. 60, A6-3.1.5"
+    },
+    "usa_vermoegensschaeden": {
+     "wert": "nur_europa",
+     "einordnung": "nur Europa",
+     "grenze": null,
+     "fundstelle": null
+    },
+    "rueckwaertsdeckung": {
+     "wert": "angabe",
+     "einordnung": "ohne Vorvertrag keine, maßgeblich ist der Schadeneintritt in der Vertragszeit",
+     "grenze": null,
+     "fundstelle": "V S. 4, A1-3.1.1 und A1-3.2.2 (Fachlauf A7-A9 24.10.2026)"
+    },
+    "nachmeldefrist": {
+     "wert": "angabe",
+     "einordnung": "keine Frist, maßgeblich ist der Schadeneintritt in der Vertragszeit",
+     "grenze": null,
+     "fundstelle": "V S. 4, A1-3.2.1 (Fachlauf A7-A9 24.10.2026)"
+    },
+    "nachhaftung": {
+     "wert": "angabe",
+     "einordnung": "10 Jahre bei endgültiger Betriebseinstellung",
+     "grenze": null,
+     "fundstelle": null
+    }
+   }
+  },
+  {
+   "id": "t7",
+   "marke": "Zurich IT Safecare",
+   "rechtstraeger": null,
+   "tarifstand": "05/2026",
+   "online_antrag": false,
+   "url": "https://it-haftpflichtcheck.de/tarife/zurich-it-safecare/",
+   "merkmale": {
+    "baustein_bhv": {
+     "wert": "enthalten",
+     "einordnung": "pauschal enthalten",
+     "grenze": "5 Mio. €",
+     "fundstelle": "ZA S. 3 \"Zusätzlich mitversichert ist die Betriebshaftpflichtversicherung mit einer pauschalen Versicherungssumme für Personen- und Sachschäden in Höhe von 5.000.000 EUR - 3-fach maximiert\"; SB: ZA S. 29, 3. Teil II.5 \"Der Selbstbehalt kommt nicht für den 1. Teil II. Ziffer 4 sowie den 2. Teil der Police zur Anwendung\"; Umfang ZA S. 25 bis 28, 2. Teil"
+    },
+    "baustein_cyber": {
+     "wert": "baustein",
+     "einordnung": "als Baustein",
+     "grenze": "20 % der Deckungssumme, höchstens 250.000 €, Selbstbeteiligung 1.000 €",
+     "fundstelle": "ZA S. 4 Option b \"jeweils bis zu 20 % der vereinbarten pauschalen Versicherungssumme ... höchstens jedoch bis 250.000 EUR\", eigene Prämientabelle; SB ZA S. 3 \"bei Cyber-Eigenschäden ... jeweils 1.000 EUR\"; Bedingungen ZA S. 18 bis 20, 1. Teil II.4 a. bis d. (Wartezeit 8 Stunden, Wiederherstellungszeitraum höchstens 30 Tage, S. 20); Voraussetzung Fragen 8 bis 15 alle Ja, ZA S. 6"
+    },
+    "eigenschaden_summe": {
+     "wert": "enthalten",
+     "einordnung": "pauschal enthalten",
+     "grenze": "je Position bis 500.000 €, Selbstbeteiligung 250 €",
+     "fundstelle": "ZA S. 3 Option a \"Mitversichert sind die folgenden Eigenschäden gemäß 1. Teil II. Ziff. 3 a.-j. ... jeweils bis zu 500.000 EUR, höchstens jedoch bis zur Höhe der vereinbarten pauschalen Versicherungssumme\" (gilt ebenso in Option b); SB 250 ZA S. 3; Bedingungen ZA S. 17 bis 18, 1. Teil II.3 a. bis j."
+    },
+    "baustein_do": {
+     "wert": "nicht_waehlbar",
+     "einordnung": "nicht wählbar",
+     "grenze": null,
+     "fundstelle": "ZA S. 3 bis 4 nur Option a und b (Cyber), kein D&O-Baustein; Ausschluss ZA S. 22, 1. Teil III.7 Organhaftpflicht \"(sog. D&O Ansprüche)\""
+    },
+    "berufsbild_it": {
+     "wert": "offen",
+     "einordnung": "offen",
+     "grenze": null,
+     "fundstelle": "ZA S. 16, 1. Teil I.2 \"Versicherungsschutz besteht für Dienstleistungen beim Betrieb eines Unternehmens der Informations- oder Telekommunikationstechnologie ... insbesondere für:\" (Liste nicht abschließend); Annahmegrenze ZA S. 5 Risikofrage 5 und 6"
+    },
+    "beratung_medien": {
+     "wert": "ausdruecklich_genannt",
+     "einordnung": "ausdrücklich genannt",
+     "grenze": null,
+     "fundstelle": "ZA S. 16, 1. Teil I.2 \"Management- und Sicherheitsberatung; wirtschaftliche Unternehmensberatung\"; Werbung nur für das eigene Unternehmen ZA S. 16, 1. Teil I.3; Ausschluss Finanzberatung ZA S. 22, 1. Teil III.10"
+    },
+    "ki_einsatz": {
+     "wert": "nicht_ausdruecklich_genannt",
+     "einordnung": "nicht ausdrücklich genannt",
+     "grenze": null,
+     "fundstelle": "ZA Volltext (34 S.) und ZF: 0 Treffer für KI, künstliche Intelligenz, Intelligenz, Algorithmus (Positivkontrolle im selben Lauf: 'Software' 9 Treffer; KI-Nennung in MB und H vorhanden); Tätigkeitsliste nicht abschließend ZA S. 16, 1. Teil I.2"
+    },
+    "vermoegensschaeden_dritter": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "ZA S. 16, 1. Teil I.1; Summen ZA S. 3 (250.000 bis 3.000.000, 3-fach maximiert), SB 250 ZA S. 3"
+    },
+    "gewinnentgang_programmierfehler": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "ZA S. 17, 1. Teil II.1 d. \"für Haftpflichtansprüche auf Ersatz entgangenen Gewinns\"; Softwareherstellung und -pflege ZA S. 16, 1. Teil I.2"
+    },
+    "verzugsschaden": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "ZA S. 17, 1. Teil II.2 (nicht bei vorsätzlich oder grob fahrlässig fehlerhafter Einschätzung der Ressourcen); Erfüllungsausschluss ZA S. 21, III.1 e. \"soweit nicht Deckung gem. 1. Teil II. Ziff. 2. besteht\""
+    },
+    "beratungsfehler": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "ZA S. 17, 1. Teil II.1 c. vergebliche Aufwendungen bei Schlecht- oder Nichterfüllung; Analyse, Organisation, Schulung, Beratung ZA S. 16, I.2; Ausschluss Finanzberatung ZA S. 22, III.10"
+    },
+    "vertragsstrafen": {
+     "wert": "angabe",
+     "einordnung": "bei Verletzung von Geheimhaltung oder Datenschutz bis 500.000 €",
+     "grenze": null,
+     "fundstelle": "ZA S. 20, 1. Teil II.5 \"Verletzung vertraglicher Geheimhaltungs-, Vertraulichkeits- und Datenschutzvereinbarungen ... wenn diese auf der Vereinbarung von Vertragsstrafen basieren\", Sublimit 500.000 einschließlich Abwehrkosten, kein Schutz bei wissentlicher oder vorsätzlicher Verletzung; sonst Ausschluss vertraglicher Haftung ZA S. 21, III.2 c."
+    },
+    "urheber_marken_lizenzrechte": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "ZA S. 17, 1. Teil II.1 a. (gewerbliche Schutzrechte, Patent-, Marken-, Namens-, Urheberrechte, Persönlichkeitsrechte, Kartell- und Wettbewerbsverstöße); Ausschluss ZA S. 22, III.9 (Patente, Lizenzen, Geschäftsgeheimnisse in USA, Kanada, Großbritannien); Strafen ZA S. 21, III.2 a.; Unterlassungsverfahren als Eigenschaden ZA S. 17 bis 18, II.3 h."
+    },
+    "datenschutz_persoenlichkeitsrechte": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "ZA S. 17, 1. Teil II.1 a. (Persönlichkeitsrechte) und II.1 b. (immaterielle Schäden); externer Datenschutzbeauftragter ZA S. 21, II.14; \"Versicherungsschutz wegen Haftpflicht aus Verstößen gegen den Datenschutz\" ZA S. 32, 3. Teil V; unter \"Ausschlüsse betreffend USA\" ZA S. 22, III.8.2 \"wegen Verletzungen gegen datenschutzrechtliche Bestimmungen\""
+    },
+    "datenverlust_kunde": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "ZA S. 16, 1. Teil I.1 \"Als Vermögensschaden gilt auch der Verlust, die Veränderung oder Blockade elektronischer Daten\"; Viren ZA S. 21, II.8; Ausschluss Zahlungsverkehr bei fehlender Verschlüsselung ZA S. 22, III.11"
+    },
+    "freie_mitarbeiter": {
+     "wert": "nicht_ausdruecklich_genannt",
+     "einordnung": "nicht ausdrücklich genannt",
+     "grenze": null,
+     "fundstelle": "ZA S. 30, 3. Teil III.4 versicherte Personen: Betriebsangehörige, eingegliederte Mitarbeiter fremder Unternehmen, Organe, Geschäftsführer, Datenschutzbeauftragter, Gesellschafter; Erfüllungsgehilfen ZA S. 21, 1. Teil II.10"
+    },
+    "subunternehmer": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "ZA S. 21, 1. Teil II.10 \"Mitversichert sind Ansprüche wegen Schäden, die durch einen von der Versicherungsnehmerin beauftragten Subunternehmer oder Erfüllungsgehilfen entstehen\""
+    },
+    "abwehr_unberechtigter_ansprueche": {
+     "wert": "eingeschlossen",
+     "einordnung": "eingeschlossen",
+     "grenze": null,
+     "fundstelle": "ZA S. 29, 3. Teil II.1 (Abwehr unbegründeter, Freistellung begründeter Ansprüche), II.2 und II.4 (Kosten nicht auf die Versicherungssumme angerechnet), II.5 (kein SB bei erfolgreicher Abwehr); II.2 letzter Absatz (USA, US-Territorien, Kanada: Kosten angerechnet)"
+    },
+    "geltungsbereich_vermoegensschaeden": {
+     "wert": "weltweit",
+     "einordnung": "weltweit",
+     "grenze": null,
+     "fundstelle": "ZA S. 30, 3. Teil III.3 \"weltweit gewährt\", soweit rechtlich zulässig; ZF S. 2 \"einschließlich in USA / Kanada\"; Kosten USA/Kanada ZA S. 29, 3. Teil II.2; Ausschlüsse ZA S. 22, III.8 und III.9"
+    },
+    "usa_vermoegensschaeden": {
+     "wert": "angabe",
+     "einordnung": "auch in den USA und Kanada",
+     "grenze": null,
+     "fundstelle": "ZF S. 2 \"Weltweiter Versicherungsschutz (einschließlich in USA / Kanada) für im Ausland erbrachte IT-Dienstleistungen und / oder in das Ausland gelieferte IT-Produkte\"; ZA S. 30, III.3; Kosten ZA S. 29, 3. Teil II.2; Ausschlüsse ZA S. 22, III.8 (ERISA, Securities Acts, RICO, TCPA, CAN-SPAM, FCRA u. a.) und III.9; keine USA-Selbstbeteiligung im Antrag; Risikofrage 3 ZA S. 5 (über 40 % Umsatz USA/Kanada)"
+    },
+    "rueckwaertsdeckung": {
+     "wert": "angabe",
+     "einordnung": "1 Jahr beim ersten Vertrag, ohne bekannten Fall",
+     "grenze": null,
+     "fundstelle": "ZA S. 29, 3. Teil I (Versicherungsfall ist das Schadenereignis, Zeitpunkt der Verursachung unerheblich); ZA S. 30, 3. Teil III.2 Rückwärtsversicherung 1 Jahr beim erstmaligen Abschluss, unbekannte Schadenereignisse, Anschluss an Vorversicherer; Serienschaden ZA S. 29 bis 30, 3. Teil II.6"
+    },
+    "nachmeldefrist": {
+     "wert": "angabe",
+     "einordnung": "10 Jahre nach Vertragsende",
+     "grenze": null,
+     "fundstelle": "ZA S. 30, 3. Teil III.2 \"die dem Versicherer nicht später als zehn Jahre nach Beendigung des Versicherungsvertrages gemeldet werden\"; ZF S. 2 \"Nachmeldefrist 10 Jahre\""
+    },
+    "nachhaftung": {
+     "wert": "angabe",
+     "einordnung": "Meldung bis 10 Jahre, Schaden muss in der Vertragszeit liegen",
+     "grenze": null,
+     "fundstelle": "ZA S. 29, 3. Teil I (Schadenereignis); ZA S. 30, III.2 (Meldung bis 10 Jahre); Volltextsuche Nachhaftung, Aufgabe, Einstellung, Ruhestand: nur Anschlussregel Vorversicherer ZA S. 30 (Positivkontrolle: Treffer dort), keine eigene Nachhaftung für Schadenereignisse nach Vertragsende"
+    }
+   }
+  }
+ ]
+}

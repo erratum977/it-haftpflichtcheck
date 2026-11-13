@@ -1,0 +1,368 @@
+/* Satelliten-Basis ENV (Theme-Einbau 13.11.2026, Mockup-Runde 1). Nur Systemschriften, keine externen Ressourcen.
+   Farben, Schriften und Abweichungen je Domain: assets/theme-<name>.css (site.json "theme").
+   Regel: Aktionsfarbe --action nur auf .btn-primary und .btn-ghost. Hex-Werte nur im Fallback-Block unten. */
+
+/* ---------- Tokens: Fallbacks, jedes Theme setzt sie in :root neu ---------- */
+:root{
+  --bg:#fff;--surface:#fff;--ink:#1d1f22;--ink-2:#4b5056;--line:#d9dcdf;
+  --brand:#0B2E36;--action:#0E5E6F;--action-ink:#fff;
+  --th-bg:var(--bg);--th-ink:var(--ink);--sticky-bg:var(--surface);--feld-rand:var(--ink-2);
+  --fs:16px;--lh:1.5;--h-w:700;
+  --sans:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  --serif:Georgia,"Iowan Old Style","Times New Roman",serif;
+  --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;
+  --head:var(--sans);--label:var(--sans);--body:var(--sans);--radius:4px;--measure:68ch;
+  --bt-bg:#FFF3B0;--bt-ink:#5A4A00;
+  --leiste-h:72px;
+  /* Aliase für ältere Regeln: --accent ist die Markenfarbe, nie die Aktionsfarbe */
+  --accent:var(--brand);--ink-3:var(--ink-2);--hint-bg:var(--bg)
+}
+
+/* ---------- Grundlagen ---------- */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{font-family:var(--body);color:var(--ink);background:var(--bg);font-size:var(--fs);line-height:var(--lh);-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+a{color:inherit;text-decoration:underline;text-underline-offset:.18em;text-decoration-thickness:1px}
+a:hover{text-decoration-thickness:2px}
+:focus-visible{outline:2px solid var(--ink);outline-offset:2px}
+img{max-width:100%;display:block}
+main{display:block}
+.container{max-width:1152px;margin:0 auto;padding:0 32px;width:100%}
+.container-breit{max-width:1152px}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.nw{white-space:nowrap}
+.zahl{white-space:nowrap;font-variant-numeric:tabular-nums}
+.bt{background:var(--bt-bg);color:var(--bt-ink);padding:.04em .3em;border-radius:2px;-webkit-box-decoration-break:clone;box-decoration-break:clone;font-style:normal}
+.nur-mobil{display:none}
+h1,h2,h3,.app-titel{font-family:var(--head);color:var(--ink)}
+h2{font-size:24px;line-height:1.2;margin-bottom:18px;font-weight:var(--h-w);max-width:var(--measure)}
+h3{font-size:1.05em;font-weight:var(--h-w);line-height:1.3;margin:0 0 6px}
+section{padding:44px 0}
+section+section{border-top:1px solid var(--line)}
+
+/* ---------- Kopf: einzeilig, ohne Hero-Bild ---------- */
+.kopf{border-bottom:1px solid var(--line)}
+.kopf-zeile{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:56px}
+.marke{display:flex;align-items:center;gap:10px;color:var(--ink);text-decoration:none;font:700 17px/1.1 var(--head);flex:none}
+.marke:hover{text-decoration:none}
+.monogramm{display:grid;place-items:center;flex:none}
+.kopf .nav{display:flex;align-items:center;min-width:0;overflow-x:auto;white-space:nowrap;scrollbar-width:none}
+.kopf .nav>:first-child{margin-left:auto}
+.kopf .nav a{margin-left:22px;font-size:15px}
+.kopf .nav a[aria-current="page"]{text-decoration-thickness:2px;font-weight:700}
+/* Rechtstexte (eigene Vorlagen) behalten den einfachen Kopf */
+header.nav{background:var(--surface);border-bottom:1px solid var(--line)}
+header.nav .container{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px 16px;min-height:56px}
+.brand{font:700 1.1rem/1.2 var(--head);color:var(--ink);text-decoration:none}
+.nav-link{color:var(--ink-2)}
+
+/* Brotkrumen */
+.breadcrumb{font:13px/1.4 var(--label);color:var(--ink-2);padding:14px 0 0}
+.breadcrumb ol{list-style:none;display:flex;flex-wrap:wrap}
+.breadcrumb li+li::before{content:"\203A";margin:0 6px}
+.breadcrumb a,.breadcrumb [aria-current]{color:var(--ink-2)}
+
+/* ---------- Einstieg ---------- */
+.hero{padding:24px 0 32px}
+.hero-grid{display:grid;grid-template-columns:minmax(0,1fr) 360px;gap:32px;align-items:start}
+.hero-grid>*{min-width:0}
+.eyebrow{display:block;font:600 13px/1.3 var(--label);color:var(--ink-2);margin-bottom:10px}
+.hero h1{font-size:clamp(28px,4vw,40px);line-height:1.12;font-weight:var(--h-w);max-width:26ch}
+.cta-row{display:flex;gap:12px 18px;flex-wrap:wrap;align-items:center;margin-top:20px}
+.link-more{font-weight:600}
+.datum{font:13px/1.4 var(--label);color:var(--ink-2)}
+.werkzeug{margin-top:24px}
+
+/* ANTWORT: erster Inhalt nach der H1, zitierfähig, darunter der Stand */
+.antwort-box{max-width:var(--measure);margin-top:16px}
+.antwort{font-size:1.08em;line-height:1.5;color:var(--ink)}
+.antwort-zeile{display:block}.antwort-zeile+.antwort-zeile{margin-top:4px}
+.stand{font:13px/1.4 var(--label);color:var(--ink-2);margin-top:8px}
+.danke-text{max-width:var(--measure);margin-top:16px;font-size:1.1em}
+
+/* ---------- Bedienelemente ---------- */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:44px;padding:10px 18px;border:2px solid transparent;border-radius:var(--radius);font:600 15px/1.2 var(--label);text-decoration:none;cursor:pointer;white-space:nowrap;background:transparent;color:var(--ink)}
+.btn:hover{text-decoration:none}
+.btn-primary{background:var(--action);border-color:var(--action);color:var(--action-ink)}
+.btn-ghost{background:transparent;border-color:var(--action);color:var(--action)}
+.btn-primary:hover,.btn-ghost:hover{box-shadow:inset 0 0 0 1px var(--action)}
+.feld{display:flex;flex-direction:column;gap:6px;min-width:0}
+.feld label,.feld-label{font:600 13px/1.3 var(--label);color:var(--ink-2)}
+input,select,textarea{font:15px/1.3 var(--sans);color:var(--ink);background-color:var(--surface);border:1px solid var(--feld-rand);border-radius:var(--radius);padding:10px 12px;min-height:44px;width:100%;max-width:100%}
+select{-webkit-appearance:none;appearance:none;padding-right:34px;background-image:linear-gradient(45deg,transparent 50%,var(--ink-2) 50%),linear-gradient(135deg,var(--ink-2) 50%,transparent 50%);background-position:calc(100% - 19px) 52%,calc(100% - 14px) 52%;background-size:5px 5px;background-repeat:no-repeat}
+textarea{resize:vertical;min-height:88px}
+input[type=checkbox]{width:auto;min-height:0;padding:0;margin:3px 8px 0 0;flex:none;accent-color:var(--brand)}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{display:inline-block;padding:7px 10px;border:1px solid var(--line);border-radius:var(--radius);background:var(--surface);color:var(--ink);text-decoration:none;font-size:14px;line-height:1.2}
+.chip:hover{border-color:var(--brand)}
+.chip.aktiv{background:var(--brand);border-color:var(--brand);color:var(--surface)}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:14px}
+.panel-titel{font:600 12px/1.2 var(--label);text-transform:uppercase;letter-spacing:.08em;color:var(--ink-2);margin-bottom:10px}
+.panel-sub{font-size:12.5px;color:var(--ink-2);margin-top:10px}
+
+/* Hero-Varianten (Struktur; Aussehen je Theme) */
+.fakten{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));margin-top:16px;border:1px solid var(--line);background:var(--surface);max-width:var(--measure)}
+.fakten div{padding:10px 12px;border-right:1px solid var(--line);min-width:0}
+.fakten div:last-child{border-right:0}
+.fakten dt{font:11px/1.2 var(--label);text-transform:uppercase;letter-spacing:.06em;color:var(--ink-2)}
+.fakten dd{margin:4px 0 0;font:600 18px/1.2 var(--label);color:var(--brand);font-variant-numeric:tabular-nums}
+.haken{list-style:none;margin-top:12px;display:flex;flex-direction:column;gap:6px}
+.haken li{display:flex;gap:12px;align-items:center}
+.haken li::before{content:"\2713";flex:0 0 22px;height:22px;border-radius:50%;background:var(--brand);color:var(--surface);font:700 12px/22px var(--sans);text-align:center}
+.wahl-karte{border:1px solid var(--line);border-top:3px solid var(--brand);background:var(--surface);padding:18px;display:flex;flex-direction:column;gap:12px;border-radius:var(--radius)}
+.wahl-titel{font:600 12px/1 var(--label);text-transform:uppercase;letter-spacing:.1em;color:var(--brand)}
+.wahl-sub{font-size:13px;line-height:1.4;color:var(--ink-2)}
+.wahl-liste{border:1px solid var(--feld-rand);border-radius:var(--radius);background:var(--surface)}
+.wahl-liste summary{list-style:none;cursor:pointer;min-height:44px;padding:10px 34px 10px 12px;position:relative;font-size:15px}
+.wahl-liste summary::-webkit-details-marker{display:none}
+.wahl-liste summary::after{content:"";position:absolute;right:14px;top:50%;width:7px;height:7px;border-right:2px solid var(--ink-2);border-bottom:2px solid var(--ink-2);transform:translateY(-70%) rotate(45deg)}
+.wahl-liste[open] summary{border-bottom:1px solid var(--line)}
+.wahl-liste ul{list-style:none;max-height:260px;overflow-y:auto;padding:4px 0}
+.wahl-liste li a{display:block;padding:7px 12px;text-decoration:none}
+.wahl-liste li a:hover{background:var(--bg)}
+.makler-karte{background:var(--surface);border:1px solid var(--line);border-top:4px solid var(--brand);border-radius:var(--radius);padding:22px;display:flex;flex-direction:column;gap:4px}
+.makler-karte .makler-name{font:700 19px/1.3 var(--head);color:var(--ink)}
+.makler-karte p{font-size:14px;line-height:1.45;color:var(--ink-2)}
+.makler-karte .mk-satz{margin-top:6px;color:var(--ink)}
+.makler-karte .btn{margin-top:14px;align-self:flex-start}
+.rechner-karte,.ergebnis{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:22px}
+.schritte{list-style:none;display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-bottom:18px;font:600 12.5px/1.2 var(--label);color:var(--ink-2)}
+.schritte .balken{display:block;height:6px;border-radius:3px;background:var(--line);margin-bottom:7px}
+.schritte .an{color:var(--brand)}.schritte .an .balken{background:var(--brand)}
+.frage-label{font-weight:700;margin-bottom:12px}
+.kacheln{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.kachel{display:flex;flex-direction:column;gap:4px;justify-content:center;min-height:64px;padding:10px 14px;background:var(--surface);border:1.5px solid var(--line);border-radius:var(--radius);text-decoration:none;color:var(--ink);position:relative}
+.kachel.geplant{background:transparent;border-style:dashed;color:var(--ink-2)}
+.k-name{font-weight:700;line-height:1.2}.k-sub{font-size:13px;color:var(--ink-2)}
+.k-marker{align-self:flex-start;font:600 11px/1 var(--label);text-transform:uppercase;letter-spacing:.06em;border:1px solid var(--ink-2);border-radius:999px;padding:3px 7px}
+.felder{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:18px 0}
+.felder .voll{grid-column:1/-1}
+.btn-gross{width:100%;min-height:54px;font-size:17px}
+.erg-label{font:700 12px/1 var(--label);text-transform:uppercase;letter-spacing:.08em;color:var(--ink-2);margin-bottom:12px}
+.preis-paar{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:18px}
+.preis-block{background:var(--bg);border-radius:var(--radius);padding:16px}
+.pb-name{font-weight:700;font-size:14px}.pb-zahl{font-weight:800;font-size:30px;line-height:1.1;color:var(--brand);margin-top:6px}
+.pb-sub,.pb-label{font-size:13px;color:var(--ink-2)}.pb-label{margin-top:12px}
+.zeitstrahl{position:relative;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;margin-top:28px}
+.phase{position:relative;border-radius:var(--radius);padding:54px 20px 18px;background:var(--surface);border:1px solid var(--line)}
+.phase .punkt{position:absolute;top:10px;left:50%;transform:translateX(-50%);width:36px;height:36px;border-radius:50%;background:var(--brand);color:var(--surface);display:grid;place-items:center;font-weight:800}
+.phase-name{font-weight:800;margin-bottom:8px;text-align:center}
+.phase ul{list-style:none;display:flex;flex-direction:column;gap:5px;font-size:15px;line-height:1.4}
+.paket{grid-column:1/-1;display:grid;grid-template-columns:200px 1fr;gap:16px;align-items:center;border:2px solid var(--ink);border-radius:var(--radius);padding:12px 16px;background:var(--surface)}
+.paket-titel{font-weight:800}.paket-sub{font-size:13px;color:var(--ink-2);margin-top:3px}
+.paket-karten{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.pk{border-left:3px solid var(--brand);padding:2px 0 2px 12px}.pk-n{font-size:13.5px;color:var(--ink-2)}.pk-z{font-weight:800;font-size:20px}
+.anfrage{background:var(--surface);border:1px solid var(--line);border-top:3px solid var(--brand);border-radius:var(--radius);padding:22px;display:flex;flex-direction:column;gap:12px}
+.anfrage-titel{font-weight:600;font-size:18px;line-height:1.2}
+.zwei-felder{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.fz{width:100%;font-size:13.5px;border-collapse:collapse}
+.fz th,.fz td{padding:0 6px 6px 0;border:0;background:transparent}
+.fz select,.fz input{min-height:36px;padding:6px 8px;font-size:13.5px}
+.btn-voll{width:100%;min-height:48px;font-size:16px}
+.anfrage-fuss{font-size:12.5px;color:var(--ink-2)}
+.arten ul{list-style:none;display:flex;flex-wrap:wrap;gap:8px}
+.art{display:inline-block;padding:8px 12px;border:1px solid var(--line);border-radius:var(--radius);font-size:14px}
+.richtwert{margin-top:24px;border-left:3px solid var(--brand);padding:4px 0 4px 18px}
+.rw-label{font:600 12.5px/1.5 var(--label);text-transform:uppercase;letter-spacing:.08em;color:var(--brand);margin-bottom:6px}
+
+/* ---------- Tabellen: eigener Scroll-Container, Seite selbst scrollt nicht seitlich ---------- */
+.scroll{overflow-x:auto;width:100%;max-width:100%;-webkit-overflow-scrolling:touch;border:1px solid var(--line);border-radius:var(--radius);background:var(--surface)}
+.tabellen-stand{font:13px/1.4 var(--label);color:var(--ink-2);margin:0 0 8px}
+table{border-collapse:separate;border-spacing:0;width:100%;font-size:15px}
+caption{caption-side:top;text-align:left;padding:12px 16px;border-bottom:1px solid var(--line);font:600 14px/1.35 var(--label);color:var(--ink)}
+th,td{padding:10px 16px;border-bottom:1px solid var(--line);text-align:left;vertical-align:middle}
+tbody tr:last-child th,tbody tr:last-child td{border-bottom:0}
+thead th{background:var(--th-bg);color:var(--th-ink);font:600 13px/1.3 var(--label)}
+thead th a{color:inherit}
+tbody th{font-weight:600}
+.num{text-align:right;font-family:var(--label);font-variant-numeric:tabular-nums;white-space:nowrap}
+.preistabelle th:first-child,.preistabelle td:first-child,table.daten tbody th,table.vergleich th:first-child{position:sticky;left:0;z-index:1;background:var(--sticky-bg);box-shadow:1px 0 0 var(--line)}
+.preistabelle thead th:first-child,table.vergleich thead th:first-child{background:var(--th-bg)}
+.preistabelle{min-width:520px}
+.preistabelle td{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+.preistabelle th:first-child{white-space:normal;min-width:130px}
+.preistabelle .betrag{font-family:var(--label);font-weight:600}
+.preistabelle .auf-anfrage,.preistabelle .nicht-angeboten,.preistabelle .anfrage{color:var(--ink-2);font-style:italic;white-space:normal;text-align:right}
+.preistabelle .gruppe{text-align:center}
+.preistabelle .sb,.preistabelle .stand{display:block;font:400 12px/1.3 var(--label);color:var(--ink-2);margin-top:2px}
+table.vergleich{min-width:820px;font-size:14.5px}
+table.vergleich th,table.vergleich td{vertical-align:top}
+table.vergleich td{min-width:132px}
+table.vergleich tbody th{min-width:180px;max-width:220px}
+table.vergleich thead th{vertical-align:bottom}
+table.vergleich .stand,table.daten .stand{display:block;font:400 12px/1.3 var(--label);color:var(--ink-2);margin-top:4px}
+table.daten{min-width:560px;font-size:14.5px}
+table.daten th,table.daten td{vertical-align:top}
+table.daten caption{font-weight:400;font-size:13px;color:var(--ink-2)}
+table.daten caption,.preistabelle caption{position:sticky;left:0}
+table.daten tbody th{min-width:140px}
+table.daten td{overflow-wrap:break-word;min-width:150px}
+table.daten td.fs{min-width:180px;font-size:13px;color:var(--ink-2)}
+table.daten .badge{white-space:normal}
+table.daten .grenze{display:block;font-size:13px;color:var(--ink-2);margin-top:4px}
+.scroll-hinweis{display:none;font-size:13px;color:var(--ink-2);margin-bottom:8px}
+@media (max-width:860px){.scroll-hinweis{display:block}}
+.zelle{display:inline-flex;align-items:flex-start;gap:2px}
+.fn{font-size:.72rem;vertical-align:super;margin-left:3px;text-decoration:none}
+.preis-kompakt{display:none}
+.pk-tarif{font-weight:600}
+.pk-sub{font-size:13px;line-height:1.35;color:var(--ink-2);margin-top:4px}
+.preis-vs{margin:26px 0 8px}.preis-vs:first-of-type{margin-top:0}
+.preis-pflicht{font-size:13.5px;color:var(--ink-2);margin-top:12px;max-width:var(--measure)}
+.umfang{font-size:13.5px;color:var(--ink-2);margin-top:8px;max-width:var(--measure)}
+
+/* Einordnung als Badge: beschreibend, keine Wertung */
+.badge{display:inline-block;font:13px/1.3 var(--label);padding:2px 8px;border-radius:10px;border:1px solid var(--line);color:var(--ink-2);background:var(--surface)}
+.badge.b-ja{border-color:var(--ink-2);color:var(--ink);background:var(--bg)}
+.badge.b-baustein{border-style:dashed;border-color:var(--ink-2);color:var(--ink)}
+.badge.b-offen{color:var(--ink-2)}
+.badge.b-unbelegt{border-style:dotted;color:var(--ink-2);font-style:italic}
+.badge.b-angabe{border-radius:var(--radius);color:var(--ink);white-space:normal}
+.zustand{display:inline-block;font:13px/1.3 var(--label);padding:2px 8px;border-radius:var(--radius);border:1px solid var(--line);color:var(--ink-2);background:var(--surface)}
+.zustand.z-online{border-color:var(--ink-2);color:var(--ink);background:var(--bg)}.zustand.z-aus{border-style:dotted}
+
+/* Annahmen und Fundstellen */
+.daten-fuss{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.3fr);gap:16px;margin-top:14px;font-size:14px;line-height:1.5}
+.daten-fuss>*{min-width:0}
+.annahmen{max-width:var(--measure);margin-top:18px;border:1px solid var(--line);border-radius:var(--radius);padding:14px 16px;background:var(--surface);font-size:14px;line-height:1.5}
+.annahmen h3,.kasten-titel{font:600 13px/1.3 var(--label);margin-bottom:6px;color:var(--ink)}
+.annahmen ul{list-style:none;display:flex;flex-wrap:wrap;gap:4px 14px;color:var(--ink-2)}
+.annahmen li::before{content:"";display:inline-block;width:5px;height:5px;background:var(--brand);border-radius:50%;margin:0 7px 2px 0}
+.hinweise{display:flex;flex-direction:column;gap:8px;color:var(--ink-2)}
+.hinweis{font-size:14px;color:var(--ink-2);background:var(--hint-bg);border-left:3px solid var(--brand);padding:12px 16px;margin-top:28px;max-width:var(--measure)}
+.pflichthinweis{max-width:none}
+.fundstellen{margin-top:28px}
+.fundstellen h2{font-size:19px}
+.fs-raster{display:grid;grid-template-columns:1fr;gap:0;font-size:13.5px;color:var(--ink-2)}
+@media (min-width:861px){.fs-raster{grid-template-columns:repeat(2,minmax(0,1fr));column-gap:28px}}
+.fs-raster details{border-top:1px solid var(--line);padding:8px 0}
+.fs-raster summary{cursor:pointer;font-weight:700;color:var(--ink)}
+.fs-raster ol{padding-left:22px;margin-top:8px}
+.fs-raster li{margin-bottom:4px;overflow-wrap:anywhere}
+.fs-raster li:target,.merkmal-liste li:target{background:var(--bg)}
+.legende{font-size:13.5px;color:var(--ink-2);margin-top:8px}
+.legende dt{font-weight:700;display:inline}.legende dd{display:inline;margin:0}.legende div{margin-bottom:2px}
+
+/* ---------- Inhaltsblöcke ---------- */
+#antwort p,#antwort ul,#antwort ol{max-width:var(--measure);margin-bottom:14px}
+#antwort ul,#antwort ol{padding-left:22px}
+.karten{list-style:none;max-width:var(--measure)}
+.karten p{color:var(--ink-2)}
+.inhalt h2{margin-top:28px}.inhalt h2:first-child{margin-top:0}
+.inhalt p,.inhalt ul,.inhalt ol{max-width:var(--measure);margin-bottom:14px}
+.inhalt ul,.inhalt ol{padding-left:22px}.inhalt li{margin-bottom:6px}
+.weiterlesen ul,.link-liste{list-style:none;max-width:var(--measure);border-top:1px solid var(--line)}
+.weiterlesen li,.link-liste li{border-bottom:1px solid var(--line);padding:10px 0}
+.weiterlesen a,.link-liste a{font-weight:600}
+.weiterlesen span,.link-liste span{display:block;font-size:14px;color:var(--ink-2)}
+.link-liste.kompakt{display:flex;flex-wrap:wrap;gap:6px 18px;border:0}.link-liste.kompakt li{border:0;padding:0}
+.stammdaten{display:grid;grid-template-columns:max-content 1fr;gap:6px 18px;margin-top:22px;max-width:var(--measure);font-size:15px}
+.stammdaten dt{color:var(--ink-2)}.stammdaten dd{margin:0;font-weight:600}
+.zurueck{margin-top:18px;font-weight:600}
+.merkmal-liste{list-style:none;max-width:860px;border-top:1px solid var(--line)}
+.merkmal-liste li{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:6px 24px;padding:14px 0;border-bottom:1px solid var(--line)}
+.merkmal-liste h3{font-size:1em;margin:0}
+.merkmal-liste .erklaerung,.merkmal-liste .fundstelle,.merkmal-liste .grenze{font-size:14px;color:var(--ink-2);margin-top:4px;overflow-wrap:anywhere}
+.preise{margin-top:24px}
+#rechner-mount{min-height:120px}
+.rechner-folgt{max-width:var(--measure);background:var(--bg);border:1px dashed var(--line);padding:20px;border-radius:var(--radius)}
+#leistungen h3{margin-top:22px}.erklaerung-text{max-width:var(--measure)}
+.gilt-fuer,.gilt-auch{margin-top:16px;font-size:15px;color:var(--ink-2);max-width:var(--measure)}
+.gilt-fuer span,.gilt-auch span{font-weight:600}
+.gilt-fuer ul{list-style:none;display:flex;flex-wrap:wrap;gap:4px 14px;margin-top:4px}
+.faktoren,.aenderungen{padding-left:20px;max-width:var(--measure)}.faktoren li,.aenderungen li{margin-bottom:6px}
+.kosten-link{margin-top:12px;font-weight:600}
+.fragen-liste details{border-top:1px solid var(--line);padding:10px 0;max-width:var(--measure)}.fragen-liste summary{cursor:pointer;font-weight:700}
+.fragen{padding-left:22px;margin-top:8px}.fragen li{margin-bottom:10px}
+blockquote.zitat{border-left:3px solid var(--line);padding:4px 0 4px 12px;color:var(--ink-2);font-size:15px}
+.zitat-hinweis{font-size:14px;color:var(--ink-2);max-width:var(--measure);margin-bottom:10px}
+.anf-tarif{border-top:1px solid var(--line);padding:14px 0;max-width:var(--measure)}.anf-tarif h3 .stand{font:400 12.5px var(--label);color:var(--ink-2);margin-left:6px}
+.keine-frage{color:var(--ink-2);font-style:italic}.erwartet{font-size:14px;color:var(--ink-2);margin-top:4px}
+.werte-legende div{display:grid;grid-template-columns:minmax(160px,auto) 1fr;gap:4px 16px;padding:6px 0;border-bottom:1px solid var(--line);max-width:var(--measure)}.werte-legende dd{margin:0;color:var(--ink-2);font-size:14px}
+
+/* ---------- LEAD: Formular, Termin, Telefon, daneben der Makler ---------- */
+.lead-grid{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);gap:32px;align-items:start}
+.lead-grid>*{min-width:0}
+.lead{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:28px}
+.lead h2{margin-bottom:8px}
+.lead-intro{color:var(--ink-2);margin-bottom:18px;max-width:var(--measure)}
+.form-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.form-grid>*{min-width:0}
+.form-grid .voll{grid-column:1/-1}
+.zustimmung{font-size:13px;color:var(--ink-2);display:flex;flex-direction:column;gap:6px}
+.zustimmung>span:first-child{display:flex;align-items:flex-start}
+.hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+.direkt{display:flex;flex-wrap:wrap;align-items:center;gap:12px 16px}
+.form-grid+.direkt{margin-top:20px;padding-top:18px;border-top:1px solid var(--line)}
+.direkt-frage{font-weight:600}
+.tel{color:var(--ink-2);font-variant-numeric:tabular-nums}
+.tel a{white-space:nowrap;font-weight:600;color:var(--ink)}
+.lead .hinweis{margin-top:20px}
+.makler{display:grid;grid-template-columns:120px minmax(0,1fr);gap:18px;align-items:start;border:1px solid var(--line);border-radius:var(--radius);background:var(--surface);padding:20px}
+.foto{width:120px;height:120px;border:1px dashed var(--ink-2);border-radius:var(--radius);display:grid;place-items:center;font:12px/1.2 var(--label);color:var(--ink-2);background:var(--bg);text-align:center;padding:6px}
+.foto-gross{width:200px;height:200px;margin-bottom:12px}
+img.foto{border:0;padding:0;object-fit:cover;height:160px;background:none}
+img.foto-gross{height:267px}
+.makler-text p{font-size:14px;line-height:1.45;color:var(--ink-2)}
+.makler-text .makler-name{font:700 17px/1.3 var(--head);color:var(--ink);margin-bottom:4px}
+.makler-text .btn{margin-top:12px}
+.makler-text .makler-link{margin-top:6px}
+.makler-text .makler-link a{color:var(--ink);font-weight:600}
+.termin-hinweis{font-size:13px;line-height:1.5;color:var(--ink-2);margin-top:14px}
+
+/* FAQ mit + und − */
+.faq{max-width:var(--measure)}
+.faq details{border-bottom:1px solid var(--line)}
+.faq summary{list-style:none;cursor:pointer;padding:16px 44px 16px 0;position:relative;font-weight:600}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:"+";position:absolute;right:6px;top:50%;transform:translateY(-50%);font:400 24px/1 var(--label);color:var(--brand)}
+.faq details[open] summary::after{content:"\2212"}
+.faq details p{padding:0 0 18px;color:var(--ink-2)}
+
+/* Rechtstexte */
+.prose{padding:44px 32px;max-width:780px}
+.prose h1{font-family:var(--head);font-size:2rem;line-height:1.2;margin-bottom:24px}
+.prose h2{font-size:1.1rem;font-family:var(--sans);margin:24px 0 6px}
+.prose p,.prose li{margin-bottom:10px;color:var(--ink-2);max-width:var(--measure)}
+.prose ul{padding-left:20px}
+
+/* Fußzeile */
+footer{border-top:1px solid var(--line);padding:32px 0 40px;margin-top:24px;font-size:13.5px;line-height:1.55;color:var(--ink-2)}
+footer .container{display:flex;flex-direction:column;gap:10px}
+footer .legal{display:flex;flex-wrap:wrap;gap:6px 20px}
+footer .legal a{color:var(--ink)}
+
+/* CTA-Leiste: nur unter 640 px, fest unten, zwei Ziele, nicht auf Rechtstexten */
+.cta-leiste{display:none}
+
+/* ---------- Mobil (Mockup-Container-Regeln als Media Query) ---------- */
+@media (max-width:640px){
+  .nur-mobil{display:block}
+  .nur-desktop{display:none}
+  .container{padding:0 16px}
+  section{padding:36px 0}
+  .hero{padding:16px 0 24px}
+  h2{font-size:21px}
+  .hero-grid,.daten-fuss,.lead-grid,.form-grid,.felder,.zwei-felder,.preis-paar,.zeitstrahl,.paket{grid-template-columns:minmax(0,1fr)}
+  .kopf .nav a{margin-left:14px;font-size:14px}
+  .lead{padding:20px 16px}
+  .makler{padding:16px;grid-template-columns:88px minmax(0,1fr);gap:14px}
+  .foto{width:88px;height:88px}
+  .preistabelle{min-width:520px}
+  table.daten{min-width:520px}
+  th,td{padding:9px 12px}
+  .preis-kompakt{display:block;margin:14px 0}
+  .fakten{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .kacheln{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .merkmal-liste li{grid-template-columns:1fr}
+  .stammdaten{grid-template-columns:1fr;gap:0}.stammdaten dd{margin-bottom:8px}
+  table.vergleich tbody th,table.vergleich thead th:first-child{min-width:118px;max-width:132px;font-size:13.5px;padding:10px 8px;hyphens:auto;-webkit-hyphens:auto}
+  table.vergleich td{min-width:124px}
+  .prose{padding:32px 16px}
+  body.mit-leiste{padding-bottom:calc(var(--leiste-h) + env(safe-area-inset-bottom,0px))}
+  .cta-leiste{display:grid;grid-template-columns:1.35fr 1fr;gap:8px;position:fixed;left:0;right:0;bottom:0;z-index:20;padding:10px 16px calc(10px + env(safe-area-inset-bottom,0px));background:var(--surface);border-top:1px solid var(--line)}
+  .cta-leiste .btn{padding:10px 8px;font-size:14.5px;min-width:0}
+  .cta-leiste .btn-ghost{background:var(--surface)}
+  .cta-row .btn{flex:1 1 auto}
+}
+.makler .mail a,.makler .tel a{overflow-wrap:anywhere}
