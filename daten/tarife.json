@@ -98,8 +98,8 @@
   },
   {
    "key": "freie_mitarbeiter",
-   "label": "Fehler von (freien) Mitarbeitern",
-   "erklaerung": "Ansprüche wegen Fehlern deiner Angestellten und eingegliederten freien Mitarbeiter.",
+   "label": "Fehler von freien Mitarbeitern",
+   "erklaerung": "Ansprüche wegen Fehlern eingegliederter freier Mitarbeiter.",
    "gruppe": "partner"
   },
   {

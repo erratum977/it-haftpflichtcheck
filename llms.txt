@@ -62,7 +62,7 @@ Betreiber: ENV Versicherungsmakler UG (haftungsbeschränkt), Sebastian Steinhube
 - [Verletzung von Urheber-, Marken- und Lizenzrechten](https://it-haftpflichtcheck.de/leistung/verletzung-von-urheber-marken-und-lizenzrechten/): Verletzung von Urheber-, Marken- und Lizenzrechten: 6 von 6: eingeschlossen
 - [Datenschutz und Persönlichkeitsrechte](https://it-haftpflichtcheck.de/leistung/datenschutz-und-persoenlichkeitsrechte/): Datenschutz und Persönlichkeitsrechte: 6 von 6: eingeschlossen
 - [Daten- und Cyber-Drittschäden](https://it-haftpflichtcheck.de/leistung/daten-und-cyber-drittschaeden/): Daten- und Cyber-Drittschäden: 6 von 6: eingeschlossen
-- [Fehler von (freien) Mitarbeitern](https://it-haftpflichtcheck.de/leistung/fehler-von-freien-mitarbeitern/): Fehler von (freien) Mitarbeitern: 4 von 6: eingeschlossen; 2 von 6: nicht ausdrücklich genannt
+- [Fehler von freien Mitarbeitern](https://it-haftpflichtcheck.de/leistung/fehler-von-freien-mitarbeitern/): Fehler von freien Mitarbeitern: 4 von 6: eingeschlossen; 2 von 6: nicht ausdrücklich genannt
 - [Subunternehmer](https://it-haftpflichtcheck.de/leistung/subunternehmer/): Subunternehmer: 6 von 6: eingeschlossen
 - [Abwehr unberechtigter Ansprüche](https://it-haftpflichtcheck.de/leistung/abwehr-unberechtigter-ansprueche/): Abwehr unberechtigter Ansprüche: 6 von 6: eingeschlossen
 - [Geltungsbereich Vermögensschäden](https://it-haftpflichtcheck.de/leistung/geltungsbereich-vermoegensschaeden/): Geltungsbereich Vermögensschäden: 5 von 6: weltweit; 1 von 6: nur Europa
