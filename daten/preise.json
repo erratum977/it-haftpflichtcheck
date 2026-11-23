@@ -1,7 +1,7 @@
 {
  "marke": "IT-Haftpflichtcheck",
  "url": "https://it-haftpflichtcheck.de/kosten/",
- "berechnet_am": "2026-11-13",
+ "berechnet_am": "2026-11-18",
  "hinweis": "Auswertung der Bedingungswerke, Leistungsübersichten und Antragsstrecken der genannten Versicherer durch Sebastian Steinhuber, Versicherungsmakler mit Erlaubnis nach § 34d Abs. 1 GewO. Tarifstand je Tarif angegeben. Die Daten umfassen nur die genannten Tarife und sind keine Bewertung. Maßgeblich sind allein die Bedingungen und das Angebot des Versicherers.",
  "annahmen": {
   "laufzeit_jahre": 3,
@@ -15,7 +15,7 @@
   "zusatzbausteine": "keine, außer Variante angegeben",
   "versicherungsteuer": "enthalten"
  },
- "anzahl": 468,
+ "anzahl": 783,
  "punkte": [
   {
    "tarif": "andsafe",
@@ -40,6 +40,28 @@
    "jahresbeitrag_brutto": 436.84
   },
   {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": "mit Eigenschaden",
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 809.2
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
@@ -104,6 +126,17 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 379.61
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 565.49
   },
   {
    "tarif": "andsafe",
@@ -128,6 +161,28 @@
    "jahresbeitrag_brutto": 512.96
   },
   {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": "mit Eigenschaden",
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 809.2
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
@@ -192,6 +247,39 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 473.03
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 631.89
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": "mit Eigenschaden",
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 809.2
   },
   {
    "tarif": "Markel Pro IT",
@@ -260,6 +348,17 @@
    "jahresbeitrag_brutto": 541.45
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 719.71
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
@@ -324,6 +423,39 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 821.1
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 1013.17
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 761.6
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": "mit Eigenschaden",
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 904.4
   },
   {
    "tarif": "Markel Pro IT",
@@ -392,6 +524,39 @@
    "jahresbeitrag_brutto": 460.53
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 679.01
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 761.6
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": "mit Eigenschaden",
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 904.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
@@ -456,6 +621,39 @@
    "versicherungssumme": 1000000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 577.15
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 745.42
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 761.6
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": "mit Eigenschaden",
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 904.4
   },
   {
    "tarif": "Markel Pro IT",
@@ -524,6 +722,17 @@
    "jahresbeitrag_brutto": 660.45
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 858.94
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
@@ -588,6 +797,17 @@
    "versicherungssumme": 1000000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 999.6
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 1218.8
   },
   {
    "tarif": "Markel Pro IT",
@@ -656,6 +876,17 @@
    "jahresbeitrag_brutto": 565.25
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 796.82
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
@@ -720,6 +951,17 @@
    "versicherungssumme": 3000000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 708.05
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 888.93
   },
   {
    "tarif": "Markel Pro IT",
@@ -788,6 +1030,17 @@
    "jahresbeitrag_brutto": 809.2
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 1038.87
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
@@ -852,6 +1105,17 @@
    "versicherungssumme": 3000000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 1225.7
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 1454.42
   },
   {
    "tarif": "andsafe",
@@ -876,6 +1140,28 @@
    "jahresbeitrag_brutto": 374.61
   },
   {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": "mit Eigenschaden",
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 809.2
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "IT-Beratung, Consulting und Schulung",
@@ -940,6 +1226,17 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 379.61
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 565.49
   },
   {
    "tarif": "andsafe",
@@ -964,6 +1261,28 @@
    "jahresbeitrag_brutto": 510.32
   },
   {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": "mit Eigenschaden",
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 809.2
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "IT-Beratung, Consulting und Schulung",
@@ -1028,6 +1347,39 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 473.03
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 631.89
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": "mit Eigenschaden",
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 809.2
   },
   {
    "tarif": "Markel Pro IT",
@@ -1096,6 +1448,17 @@
    "jahresbeitrag_brutto": 541.45
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 719.71
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "IT-Beratung, Consulting und Schulung",
@@ -1160,6 +1523,39 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 821.1
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 1013.17
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 761.6
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": "mit Eigenschaden",
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 904.4
   },
   {
    "tarif": "Markel Pro IT",
@@ -1228,6 +1624,39 @@
    "jahresbeitrag_brutto": 460.53
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 679.01
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 761.6
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": "mit Eigenschaden",
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 904.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "IT-Beratung, Consulting und Schulung",
@@ -1292,6 +1721,39 @@
    "versicherungssumme": 1000000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 577.15
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 745.42
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 761.6
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": "mit Eigenschaden",
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 904.4
   },
   {
    "tarif": "Markel Pro IT",
@@ -1360,6 +1822,17 @@
    "jahresbeitrag_brutto": 660.45
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 858.94
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "IT-Beratung, Consulting und Schulung",
@@ -1424,6 +1897,17 @@
    "versicherungssumme": 1000000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 999.6
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 1218.8
   },
   {
    "tarif": "Markel Pro IT",
@@ -1492,6 +1976,17 @@
    "jahresbeitrag_brutto": 565.25
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 796.82
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "IT-Beratung, Consulting und Schulung",
@@ -1556,6 +2051,17 @@
    "versicherungssumme": 3000000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 708.05
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 888.93
   },
   {
    "tarif": "Markel Pro IT",
@@ -1624,6 +2130,17 @@
    "jahresbeitrag_brutto": 809.2
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 1038.87
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "IT-Beratung, Consulting und Schulung",
@@ -1688,6 +2205,17 @@
    "versicherungssumme": 3000000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 1225.7
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 1454.42
   },
   {
    "tarif": "andsafe",
@@ -1712,6 +2240,28 @@
    "jahresbeitrag_brutto": 421.82
   },
   {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": "mit Eigenschaden",
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 809.2
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
@@ -1776,6 +2326,17 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 379.61
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 565.49
   },
   {
    "tarif": "andsafe",
@@ -1800,6 +2361,28 @@
    "jahresbeitrag_brutto": 475.65
   },
   {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": "mit Eigenschaden",
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 809.2
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
@@ -1864,6 +2447,39 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 473.03
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 631.89
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": "mit Eigenschaden",
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 809.2
   },
   {
    "tarif": "Markel Pro IT",
@@ -1932,6 +2548,17 @@
    "jahresbeitrag_brutto": 541.45
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 719.71
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
@@ -1996,6 +2623,39 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 821.1
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 1013.17
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 761.6
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": "mit Eigenschaden",
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 904.4
   },
   {
    "tarif": "Markel Pro IT",
@@ -2064,6 +2724,39 @@
    "jahresbeitrag_brutto": 460.53
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 679.01
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 761.6
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": "mit Eigenschaden",
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 904.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
@@ -2128,6 +2821,39 @@
    "versicherungssumme": 1000000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 577.15
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 745.42
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 761.6
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": "mit Eigenschaden",
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 904.4
   },
   {
    "tarif": "Markel Pro IT",
@@ -2196,6 +2922,17 @@
    "jahresbeitrag_brutto": 660.45
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 858.94
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
@@ -2260,6 +2997,17 @@
    "versicherungssumme": 1000000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 999.6
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 1218.8
   },
   {
    "tarif": "Markel Pro IT",
@@ -2328,6 +3076,17 @@
    "jahresbeitrag_brutto": 565.25
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 796.82
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
@@ -2392,6 +3151,17 @@
    "versicherungssumme": 3000000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 708.05
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 888.93
   },
   {
    "tarif": "Markel Pro IT",
@@ -2460,6 +3230,17 @@
    "jahresbeitrag_brutto": 809.2
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 1038.87
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
@@ -2519,6 +3300,941 @@
    "tarifstand": "01.10.2026",
    "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
    "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 1225.7
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 1454.42
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Eigenschaden",
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 809.2
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 390.38
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 454.64
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Eigenschaden",
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 443.93
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 395.2
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 459.46
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 379.61
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Eigenschaden",
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 809.2
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 453.03
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 517.29
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Eigenschaden",
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 506.58
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 457.85
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 522.11
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 473.03
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Eigenschaden",
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 809.2
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 486.77
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 551.03
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Eigenschaden",
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 593.87
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 491.59
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 555.85
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 541.45
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 713.29
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 1000000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 777.55
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Eigenschaden",
+   "umsatz": 1000000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 820.39
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 718.11
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 1000000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 782.37
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 821.1
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 761.6
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Eigenschaden",
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 904.4
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 496.41
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 560.67
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Eigenschaden",
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 549.96
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 501.23
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 565.49
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 460.53
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 761.6
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Eigenschaden",
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 904.4
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 559.06
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 623.32
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Eigenschaden",
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 612.61
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 563.88
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 628.14
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 577.15
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 761.6
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Eigenschaden",
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 904.4
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 616.9
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 681.16
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Eigenschaden",
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 724
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 621.72
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 685.98
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 660.45
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 906.07
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 1000000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 970.33
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Eigenschaden",
+   "umsatz": 1000000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 1013.17
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 910.89
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 1000000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 975.15
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 999.6
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 607.26
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 100000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 671.52
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Eigenschaden",
+   "umsatz": 100000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 660.81
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 612.08
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 100000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 676.34
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 565.25
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 694.01
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 250000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 758.27
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Eigenschaden",
+   "umsatz": 250000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 747.56
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 698.83
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 250000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 763.09
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 708.05
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 824.13
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 500000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 888.39
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Eigenschaden",
+   "umsatz": 500000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 931.23
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 790.4
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 500000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 854.66
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 809.2
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 1127.76
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 1000000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 1192.02
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Eigenschaden",
+   "umsatz": 1000000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 1234.86
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 1132.58
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 1000000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 1196.84
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
    "variante": null,
    "umsatz": 1000000,
    "versicherungssumme": 3000000,
@@ -3320,6 +5036,952 @@
   {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 390.38
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 454.64
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Eigenschaden",
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 443.93
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 395.2
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 459.46
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 379.61
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 565.49
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 453.03
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 517.29
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Eigenschaden",
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 506.58
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 457.85
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 522.11
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 473.03
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 631.89
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 486.77
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 551.03
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Eigenschaden",
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 593.87
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 491.59
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 555.85
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 541.45
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 719.71
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 713.29
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 1000000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 777.55
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Eigenschaden",
+   "umsatz": 1000000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 820.39
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 718.11
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 1000000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 782.37
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 821.1
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 1013.17
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 496.41
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 560.67
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Eigenschaden",
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 549.96
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 501.23
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 565.49
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 460.53
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 679.01
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 559.06
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 623.32
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Eigenschaden",
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 612.61
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 563.88
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 628.14
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 577.15
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 745.42
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 616.9
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 681.16
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Eigenschaden",
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 724
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 621.72
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 685.98
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 660.45
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 858.94
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 906.07
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 1000000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 970.33
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Eigenschaden",
+   "umsatz": 1000000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 1013.17
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 910.89
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 1000000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 975.15
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 999.6
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 1218.8
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 607.26
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 100000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 671.52
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Eigenschaden",
+   "umsatz": 100000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 660.81
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 612.08
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 100000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 676.34
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 565.25
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 796.82
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 694.01
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 250000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 758.27
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Eigenschaden",
+   "umsatz": 250000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 747.56
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 698.83
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 250000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 763.09
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 708.05
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 888.93
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 824.13
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 500000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 888.39
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Eigenschaden",
+   "umsatz": 500000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 931.23
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 790.4
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 500000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 854.66
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 809.2
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 1038.87
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 1127.76
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 1000000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 1192.02
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Eigenschaden",
+   "umsatz": 1000000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 1234.86
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 1132.58
+  },
+  {
+   "tarif": "Net IT by Hiscox",
+   "tarifstand": "10/2025",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": "mit Betriebshaftpflicht",
+   "umsatz": 1000000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 1000,
+   "jahresbeitrag_brutto": 1196.84
+  },
+  {
+   "tarif": "VHV Firmenprotect IT",
+   "tarifstand": "01.10.2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 0,
+   "jahresbeitrag_brutto": 1225.7
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 1454.42
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": "mit Eigenschaden",
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 809.2
+  },
+  {
+   "tarif": "Markel Pro IT",
+   "tarifstand": "19.08.2026",
    "einheit": "Telekommunikation, Provider, Netzbetrieb",
    "einheit_key": "telekommunikation",
    "variante": null,
@@ -3371,6 +6033,39 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 1000,
    "jahresbeitrag_brutto": 459.46
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 565.49
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": "mit Eigenschaden",
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 809.2
   },
   {
    "tarif": "Markel Pro IT",
@@ -3428,6 +6123,39 @@
    "jahresbeitrag_brutto": 522.11
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 631.89
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": "mit Eigenschaden",
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 809.2
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Telekommunikation, Provider, Netzbetrieb",
@@ -3481,6 +6209,17 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 1000,
    "jahresbeitrag_brutto": 555.85
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 719.71
   },
   {
    "tarif": "Markel Pro IT",
@@ -3538,6 +6277,39 @@
    "jahresbeitrag_brutto": 782.37
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 1013.17
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 761.6
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": "mit Eigenschaden",
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 904.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Telekommunikation, Provider, Netzbetrieb",
@@ -3591,6 +6363,39 @@
    "versicherungssumme": 1000000,
    "selbstbehalt": 1000,
    "jahresbeitrag_brutto": 565.49
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 679.01
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 761.6
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": "mit Eigenschaden",
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 904.4
   },
   {
    "tarif": "Markel Pro IT",
@@ -3648,6 +6453,39 @@
    "jahresbeitrag_brutto": 628.14
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 745.42
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 761.6
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": "mit Eigenschaden",
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 500,
+   "jahresbeitrag_brutto": 904.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Telekommunikation, Provider, Netzbetrieb",
@@ -3701,6 +6539,17 @@
    "versicherungssumme": 1000000,
    "selbstbehalt": 1000,
    "jahresbeitrag_brutto": 685.98
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 858.94
   },
   {
    "tarif": "Markel Pro IT",
@@ -3758,6 +6607,17 @@
    "jahresbeitrag_brutto": 975.15
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 1000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 1218.8
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Telekommunikation, Provider, Netzbetrieb",
@@ -3811,6 +6671,17 @@
    "versicherungssumme": 3000000,
    "selbstbehalt": 1000,
    "jahresbeitrag_brutto": 676.34
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 796.82
   },
   {
    "tarif": "Markel Pro IT",
@@ -3868,6 +6739,17 @@
    "jahresbeitrag_brutto": 763.09
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 888.93
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Telekommunikation, Provider, Netzbetrieb",
@@ -3921,6 +6803,17 @@
    "versicherungssumme": 3000000,
    "selbstbehalt": 1000,
    "jahresbeitrag_brutto": 854.66
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 1038.87
   },
   {
    "tarif": "Markel Pro IT",
@@ -3978,6 +6871,17 @@
    "jahresbeitrag_brutto": 1196.84
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 1000000,
+   "versicherungssumme": 3000000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 1454.42
+  },
+  {
    "tarif": "andsafe",
    "tarifstand": "05.10.2026",
    "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
@@ -3987,6 +6891,17 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 1000,
    "jahresbeitrag_brutto": 341.65
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
   },
   {
    "tarif": "Markel Pro IT",
@@ -4022,6 +6937,17 @@
    "jahresbeitrag_brutto": 379.61
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 565.49
+  },
+  {
    "tarif": "andsafe",
    "tarifstand": "05.10.2026",
    "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
@@ -4031,6 +6957,17 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 1000,
    "jahresbeitrag_brutto": 379.19
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
   },
   {
    "tarif": "Markel Pro IT",
@@ -4066,6 +7003,28 @@
    "jahresbeitrag_brutto": 473.03
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 631.89
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
@@ -4099,6 +7058,17 @@
    "jahresbeitrag_brutto": 541.45
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)",
+   "einheit_key": "softwareentwicklung",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 719.71
+  },
+  {
    "tarif": "andsafe",
    "tarifstand": "05.10.2026",
    "einheit": "Webdesign, Webentwicklung und Webpflege",
@@ -4108,6 +7078,17 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 1000,
    "jahresbeitrag_brutto": 341.65
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Webdesign, Webentwicklung und Webpflege",
+   "einheit_key": "webdesign",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
   },
   {
    "tarif": "Markel Pro IT",
@@ -4143,6 +7124,17 @@
    "jahresbeitrag_brutto": 379.61
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Webdesign, Webentwicklung und Webpflege",
+   "einheit_key": "webdesign",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 565.49
+  },
+  {
    "tarif": "andsafe",
    "tarifstand": "05.10.2026",
    "einheit": "Webdesign, Webentwicklung und Webpflege",
@@ -4152,6 +7144,17 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 1000,
    "jahresbeitrag_brutto": 379.19
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Webdesign, Webentwicklung und Webpflege",
+   "einheit_key": "webdesign",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
   },
   {
    "tarif": "Markel Pro IT",
@@ -4187,6 +7190,28 @@
    "jahresbeitrag_brutto": 473.03
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Webdesign, Webentwicklung und Webpflege",
+   "einheit_key": "webdesign",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 631.89
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Webdesign, Webentwicklung und Webpflege",
+   "einheit_key": "webdesign",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Webdesign, Webentwicklung und Webpflege",
@@ -4218,6 +7243,17 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 541.45
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Webdesign, Webentwicklung und Webpflege",
+   "einheit_key": "webdesign",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 719.71
   },
   {
    "tarif": "andsafe",
@@ -4231,6 +7267,17 @@
    "jahresbeitrag_brutto": 294.44
   },
   {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "IT-Beratung, Consulting und Schulung",
@@ -4262,6 +7309,17 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 379.61
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 565.49
   },
   {
    "tarif": "andsafe",
@@ -4275,6 +7333,17 @@
    "jahresbeitrag_brutto": 416.64
   },
   {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "IT-Beratung, Consulting und Schulung",
@@ -4308,6 +7377,28 @@
    "jahresbeitrag_brutto": 473.03
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 631.89
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "IT-Beratung, Consulting und Schulung",
@@ -4339,6 +7430,17 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 541.45
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Beratung, Consulting und Schulung",
+   "einheit_key": "it_beratung",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 719.71
   },
   {
    "tarif": "andsafe",
@@ -4352,6 +7454,17 @@
    "jahresbeitrag_brutto": 341.65
   },
   {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "IT-Service, Systemhaus, Support, Netzwerk und Wartung",
+   "einheit_key": "it_service",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "IT-Service, Systemhaus, Support, Netzwerk und Wartung",
@@ -4383,6 +7496,17 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 379.61
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Service, Systemhaus, Support, Netzwerk und Wartung",
+   "einheit_key": "it_service",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 565.49
   },
   {
    "tarif": "andsafe",
@@ -4396,6 +7520,17 @@
    "jahresbeitrag_brutto": 379.19
   },
   {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "IT-Service, Systemhaus, Support, Netzwerk und Wartung",
+   "einheit_key": "it_service",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "IT-Service, Systemhaus, Support, Netzwerk und Wartung",
@@ -4427,6 +7562,28 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 473.03
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Service, Systemhaus, Support, Netzwerk und Wartung",
+   "einheit_key": "it_service",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 631.89
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "IT-Service, Systemhaus, Support, Netzwerk und Wartung",
+   "einheit_key": "it_service",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
   },
   {
    "tarif": "Markel Pro IT",
@@ -4462,6 +7619,28 @@
    "jahresbeitrag_brutto": 541.45
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Service, Systemhaus, Support, Netzwerk und Wartung",
+   "einheit_key": "it_service",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 719.71
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
@@ -4495,6 +7674,17 @@
    "jahresbeitrag_brutto": 379.61
   },
   {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
@@ -4526,6 +7716,17 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 473.03
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)",
+   "einheit_key": "hosting_cloud",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
   },
   {
    "tarif": "Markel Pro IT",
@@ -4561,6 +7762,17 @@
    "jahresbeitrag_brutto": 541.45
   },
   {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Eigene Software als Online-Dienst (SaaS)",
+   "einheit_key": "saas",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Eigene Software als Online-Dienst (SaaS)",
@@ -4594,6 +7806,17 @@
    "jahresbeitrag_brutto": 379.61
   },
   {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Eigene Software als Online-Dienst (SaaS)",
+   "einheit_key": "saas",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Eigene Software als Online-Dienst (SaaS)",
@@ -4625,6 +7848,17 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 473.03
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Eigene Software als Online-Dienst (SaaS)",
+   "einheit_key": "saas",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
   },
   {
    "tarif": "Markel Pro IT",
@@ -4671,6 +7905,17 @@
    "jahresbeitrag_brutto": 341.65
   },
   {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
@@ -4704,6 +7949,17 @@
    "jahresbeitrag_brutto": 379.61
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 565.49
+  },
+  {
    "tarif": "andsafe",
    "tarifstand": "05.10.2026",
    "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
@@ -4713,6 +7969,17 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 1000,
    "jahresbeitrag_brutto": 379.19
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
   },
   {
    "tarif": "Markel Pro IT",
@@ -4748,6 +8015,28 @@
    "jahresbeitrag_brutto": 473.03
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 631.89
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
@@ -4779,6 +8068,17 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 541.45
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Datenerfassung, Datenbanken und Datenverarbeitung",
+   "einheit_key": "datenverarbeitung",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 719.71
   },
   {
    "tarif": "andsafe",
@@ -4792,6 +8092,17 @@
    "jahresbeitrag_brutto": 341.65
   },
   {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "IT-Sicherheit und Security-Dienstleistungen",
+   "einheit_key": "it_sicherheit",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "IT-Sicherheit und Security-Dienstleistungen",
@@ -4823,6 +8134,17 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 379.61
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Sicherheit und Security-Dienstleistungen",
+   "einheit_key": "it_sicherheit",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 565.49
   },
   {
    "tarif": "andsafe",
@@ -4836,6 +8158,17 @@
    "jahresbeitrag_brutto": 379.19
   },
   {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "IT-Sicherheit und Security-Dienstleistungen",
+   "einheit_key": "it_sicherheit",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "IT-Sicherheit und Security-Dienstleistungen",
@@ -4869,6 +8202,28 @@
    "jahresbeitrag_brutto": 473.03
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Sicherheit und Security-Dienstleistungen",
+   "einheit_key": "it_sicherheit",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 631.89
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "IT-Sicherheit und Security-Dienstleistungen",
+   "einheit_key": "it_sicherheit",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "IT-Sicherheit und Security-Dienstleistungen",
@@ -4900,6 +8255,17 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 541.45
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Sicherheit und Security-Dienstleistungen",
+   "einheit_key": "it_sicherheit",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 719.71
   },
   {
    "tarif": "Markel Pro IT",
@@ -5034,6 +8400,17 @@
    "jahresbeitrag_brutto": 379.61
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 565.49
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "IT-Sachverständiger, Gutachten",
@@ -5065,6 +8442,17 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 0,
    "jahresbeitrag_brutto": 473.03
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 631.89
   },
   {
    "tarif": "Markel Pro IT",
@@ -5100,6 +8488,28 @@
    "jahresbeitrag_brutto": 541.45
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "IT-Sachverständiger, Gutachten",
+   "einheit_key": "it_sachverstaendiger",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 719.71
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Telekommunikation, Provider, Netzbetrieb",
@@ -5120,6 +8530,28 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 1000,
    "jahresbeitrag_brutto": 395.2
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 100000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 565.49
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
   },
   {
    "tarif": "Markel Pro IT",
@@ -5144,6 +8576,28 @@
    "jahresbeitrag_brutto": 457.85
   },
   {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 250000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 631.89
+  },
+  {
+   "tarif": "AXA IT-Police Haftpflicht Kompakt",
+   "tarifstand": "09/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 350,
+   "jahresbeitrag_brutto": 666.4
+  },
+  {
    "tarif": "Markel Pro IT",
    "tarifstand": "19.08.2026",
    "einheit": "Telekommunikation, Provider, Netzbetrieb",
@@ -5164,6 +8618,17 @@
    "versicherungssumme": 500000,
    "selbstbehalt": 1000,
    "jahresbeitrag_brutto": 491.59
+  },
+  {
+   "tarif": "Zurich IT Safecare",
+   "tarifstand": "05/2026",
+   "einheit": "Telekommunikation, Provider, Netzbetrieb",
+   "einheit_key": "telekommunikation",
+   "variante": null,
+   "umsatz": 500000,
+   "versicherungssumme": 500000,
+   "selbstbehalt": 250,
+   "jahresbeitrag_brutto": 719.71
   }
  ]
 }

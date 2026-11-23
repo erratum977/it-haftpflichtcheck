@@ -8,7 +8,7 @@ Betreiber: ENV Versicherungsmakler UG (haftungsbeschränkt), Sebastian Steinhube
 - [Startseite](https://it-haftpflichtcheck.de/): Brauche ich als IT-Freelancer eine IT-Haftpflicht?
 - [Vergleich](https://it-haftpflichtcheck.de/vergleich/): Sechs IT-Haftpflicht-Tarife, 23 Leistungen mit Fundstelle im Bedingungswerk und Tarifstand je Tarif
 - [Leistungen](https://it-haftpflichtcheck.de/leistung/): 23 Leistungsmerkmale, ausgewertet für 6 Tarife: andsafe, AXA IT-Police Haftpflicht Kompakt, Markel Pro IT, Net IT by Hiscox, VHV Firmenprotect IT, Zurich IT Safecare.
-- [Kosten](https://it-haftpflichtcheck.de/kosten/): Beitragsbeispiele für 5 Preisgruppen mit 11 Einheiten, berechnet am 13.11.2026.
+- [Kosten](https://it-haftpflichtcheck.de/kosten/): Beitragsbeispiele für 7 Preisgruppen mit 11 Einheiten, berechnet am 18.11.2026.
 - [Berufe](https://it-haftpflichtcheck.de/beruf/): 11 Tätigkeiten, je Tätigkeit ausgewertet für 6 Tarife.
 
 ## Ratgeber
@@ -85,11 +85,13 @@ Betreiber: ENV Versicherungsmakler UG (haftungsbeschränkt), Sebastian Steinhube
 - [Telekommunikation, Provider, Netzbetrieb](https://it-haftpflichtcheck.de/beruf/telekommunikation/): Telekommunikation, Provider, Netzbetrieb: 4 von 6 Tarifen online berechenbar (AXA IT-Police Haftpflicht Kompakt, Markel Pro IT, Net IT by Hiscox, Zurich IT Safecare)
 
 ## Kosten
-- [Softwareentwicklung und Webdesign](https://it-haftpflichtcheck.de/kosten/softwareentwicklung-und-webdesign/): Bei 250.000 € Umsatz und 1.000.000 € Versicherungssumme liegen die Jahresbeiträge von 3 online berechneten Tarifen zwischen 559,06 € und 577,15 €, inklusive Versicherungsteuer.
-- [IT-Beratung und Schulung](https://it-haftpflichtcheck.de/kosten/it-beratung-und-schulung/): Bei 250.000 € Umsatz und 1.000.000 € Versicherungssumme liegen die Jahresbeiträge von 3 online berechneten Tarifen zwischen 559,06 € und 577,15 €, inklusive Versicherungsteuer.
-- [IT-Service, IT-Sicherheit und Daten](https://it-haftpflichtcheck.de/kosten/it-service-sicherheit-und-daten/): Bei 250.000 € Umsatz und 1.000.000 € Versicherungssumme liegen die Jahresbeiträge von 3 online berechneten Tarifen zwischen 559,06 € und 577,15 €, inklusive Versicherungsteuer.
-- [Hosting, SaaS, Handel und Gutachten](https://it-haftpflichtcheck.de/kosten/hosting-saas-handel-und-gutachten/): Bei 250.000 € Umsatz und 1.000.000 € Versicherungssumme liegen die Jahresbeiträge von 3 online berechneten Tarifen zwischen 559,06 € und 577,15 €, inklusive Versicherungsteuer.
-- [Telekommunikation und Netzbetrieb](https://it-haftpflichtcheck.de/kosten/telekommunikation-und-netzbetrieb/): Bei 250.000 € Umsatz und 1.000.000 € Versicherungssumme liegen die Jahresbeiträge von 2 online berechneten Tarifen zwischen 559,06 € und 563,88 €, inklusive Versicherungsteuer.
+- [Softwareentwicklung und Webdesign](https://it-haftpflichtcheck.de/kosten/softwareentwicklung-und-webdesign/): Bei 250.000 € Umsatz und 1.000.000 € Versicherungssumme liegen die Jahresbeiträge von 5 online berechneten Tarifen zwischen 559,06 € und 761,60 €, inklusive Versicherungsteuer.
+- [IT-Beratung und Schulung](https://it-haftpflichtcheck.de/kosten/it-beratung-und-schulung/): Bei 250.000 € Umsatz und 1.000.000 € Versicherungssumme liegen die Jahresbeiträge von 5 online berechneten Tarifen zwischen 559,06 € und 761,60 €, inklusive Versicherungsteuer.
+- [IT-Service, IT-Sicherheit und Daten](https://it-haftpflichtcheck.de/kosten/it-service-sicherheit-und-daten/): Bei 250.000 € Umsatz und 1.000.000 € Versicherungssumme liegen die Jahresbeiträge von 5 online berechneten Tarifen zwischen 559,06 € und 761,60 €, inklusive Versicherungsteuer.
+- [Hosting, Cloud und SaaS](https://it-haftpflichtcheck.de/kosten/hosting-saas-handel-und-gutachten/): Bei 250.000 € Umsatz und 1.000.000 € Versicherungssumme liegen die Jahresbeiträge von 4 online berechneten Tarifen zwischen 559,06 € und 761,60 €, inklusive Versicherungsteuer.
+- [Hard- und Softwarehandel](https://it-haftpflichtcheck.de/kosten/hard-und-softwarehandel/): Bei 250.000 € Umsatz und 1.000.000 € Versicherungssumme liegen die Jahresbeiträge von 3 online berechneten Tarifen zwischen 559,06 € und 577,15 €, inklusive Versicherungsteuer.
+- [IT-Sachverständige und Gutachten](https://it-haftpflichtcheck.de/kosten/it-sachverstaendige-und-gutachten/): Bei 250.000 € Umsatz und 1.000.000 € Versicherungssumme liegen die Jahresbeiträge von 4 online berechneten Tarifen zwischen 559,06 € und 745,42 €, inklusive Versicherungsteuer.
+- [Telekommunikation und Netzbetrieb](https://it-haftpflichtcheck.de/kosten/telekommunikation-und-netzbetrieb/): Bei 250.000 € Umsatz und 1.000.000 € Versicherungssumme liegen die Jahresbeiträge von 4 online berechneten Tarifen zwischen 559,06 € und 761,60 €, inklusive Versicherungsteuer.
 
 ## Über diese Seite
 - [Methodik](https://it-haftpflichtcheck.de/methodik/): Woher die Daten kommen, Tarifstände von 6 Tarifen
