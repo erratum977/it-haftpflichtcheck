@@ -299,7 +299,7 @@
    "marke": "AXA IT-Police Haftpflicht Kompakt",
    "rechtstraeger": null,
    "tarifstand": "09/2026",
-   "online_antrag": false,
+   "online_antrag": true,
    "url": "https://it-haftpflichtcheck.de/tarife/axa-it-police-haftpflicht-kompakt/",
    "merkmale": {
     "baustein_bhv": {
@@ -891,7 +891,7 @@
    "marke": "Zurich IT Safecare",
    "rechtstraeger": null,
    "tarifstand": "05/2026",
-   "online_antrag": false,
+   "online_antrag": true,
    "url": "https://it-haftpflichtcheck.de/tarife/zurich-it-safecare/",
    "merkmale": {
     "baustein_bhv": {

@@ -5,15 +5,21 @@
 Betreiber: ENV Versicherungsmakler UG (haftungsbeschränkt), Sebastian Steinhuber, Berlin, § 34d Abs. 1 GewO.
 
 ## Inhalt
-- [Startseite](https://it-haftpflichtcheck.de/): IT-Haftpflichtversicherung Check für IT-Freelancer und IT-Dienstleister
+- [Startseite](https://it-haftpflichtcheck.de/): Brauche ich als IT-Freelancer eine IT-Haftpflicht?
 - [Vergleich](https://it-haftpflichtcheck.de/vergleich/): Sechs IT-Haftpflicht-Tarife, 23 Leistungen mit Fundstelle im Bedingungswerk und Tarifstand je Tarif
 - [Leistungen](https://it-haftpflichtcheck.de/leistung/): 23 Leistungsmerkmale, ausgewertet für 6 Tarife: andsafe, AXA IT-Police Haftpflicht Kompakt, Markel Pro IT, Net IT by Hiscox, VHV Firmenprotect IT, Zurich IT Safecare.
 - [Kosten](https://it-haftpflichtcheck.de/kosten/): Beitragsbeispiele für 5 Preisgruppen mit 11 Einheiten, berechnet am 13.11.2026.
 - [Berufe](https://it-haftpflichtcheck.de/beruf/): 11 Tätigkeiten, je Tätigkeit ausgewertet für 6 Tarife.
 
 ## Ratgeber
-- [Was ist versichert](https://it-haftpflichtcheck.de/it-haftpflicht-was-ist-versichert/): Was die IT-Haftpflichtversicherung abdeckt und wo sich sechs Tarife laut Bedingungswerk unterscheiden
-- [Betriebshaftpflicht](https://it-haftpflichtcheck.de/it-haftpflicht-oder-betriebshaftpflicht/): Unterschied IT-Haftpflichtversicherung und Betriebshaftpflicht, und wie sechs IT-Tarife beides bündeln
+- [Was ist versichert](https://it-haftpflichtcheck.de/it-haftpflicht-was-ist-versichert/): Versichert sind vor allem Vermögensschäden deiner Kunden durch Fehler in deiner Arbeit, dazu in allen sechs ausgewerteten Tarifen Urheber- und Datenschutzverletzungen und Datenverluste beim Kunden
+- [Betriebshaftpflicht](https://it-haftpflichtcheck.de/it-haftpflicht-oder-betriebshaftpflicht/): IT-Haftpflicht für Vermögensschäden aus Software- und Beratungsfehlern, Betriebshaftpflicht für Personen- und Sachschäden; drei der sechs ausgewerteten IT-Tarife enthalten beide pauschal, drei bieten die Betriebshaftpflicht als Baustein
+- [Pflicht](https://it-haftpflichtcheck.de/it-haftpflicht-pflicht/): Gesetzlich vorgeschrieben ist eine IT-Haftpflichtversicherung für IT-Freelancer und IT-Dienstleister nicht; zur Pflicht wird sie, wenn dein Vertrag einen Versicherungsnachweis verlangt
+- [Sinnvoll](https://it-haftpflichtcheck.de/it-haftpflicht-sinnvoll/): Ohne IT-Haftpflicht trägst du berechtigten Schadenersatz und die Abwehr unberechtigter Ansprüche selbst; dagegen steht der Jahresbeitrag, Beispiele mit Tarifstand und Annahmen auf der Seite
+- [Deckungssumme](https://it-haftpflichtcheck.de/it-haftpflicht-deckungssumme/): Zuerst zählt die Vorgabe im Vertrag, sonst Projektgröße und Kundenbranche; die sechs Tarife bieten Summen von 100.000 € bis 10 Mio. €, je Schadenfall und im Jahr je nach Tarif zwei- oder dreifach
+- [Cyberversicherung](https://it-haftpflichtcheck.de/it-haftpflicht-oder-cyberversicherung/): Die IT-Haftpflicht ist für Ansprüche Dritter aus deiner IT-Tätigkeit da, die Cyberversicherung vor allem für eigene Kosten nach einem Cybervorfall bei dir; bei Ansprüchen Dritter nach einem Datenvorfall überschneiden sie sich, deckungsgleich sind sie nicht
+- [Nachweis](https://it-haftpflichtcheck.de/it-haftpflicht-nachweis/): Nachweis ist der Versicherungsschein, den dir der Versicherer in Textform übermitteln muss (§ 3 Abs. 1 VVG); vor Projektstart prüfst du Summe, versicherte Tätigkeit und Geltungsbereich gegen den Vertrag
+- [Worauf achten](https://it-haftpflichtcheck.de/it-haftpflicht-worauf-achten/): Erst prüfen, ob deine Tätigkeit versichert ist, dann Summe, Selbstbehalt, Bausteine und Beitrag; von 23 ausgewerteten Leistungen regeln die sechs Tarife 8 gleich und 15 unterschiedlich
 
 ## Tarife
 - [andsafe](https://it-haftpflichtcheck.de/tarife/andsafe/): andsafe: IT-Haftpflicht-Leistungen mit Fundstelle, Tarifstand 05.10.2026
@@ -66,17 +72,17 @@ Betreiber: ENV Versicherungsmakler UG (haftungsbeschränkt), Sebastian Steinhube
 - [Nachhaftung bei Betriebsaufgabe](https://it-haftpflichtcheck.de/leistung/nachhaftung-bei-betriebsaufgabe/): Nachhaftung bei Betriebsaufgabe: 1 von 6: 10 Jahre bei dauerhafter Aufgabe der Tätigkeit; 1 von 6: 10 Jahre bei endgültiger Betriebseinstellung; 1 von 6: 5 Jahre bei dauerhafter Aufgabe der Tätigkeit; 1 von 6: 5 Jahre bei dauerhafter Betriebseinstellung; 1 von 6: Meldung bis 10 Jahre, Schaden muss in der Vertragszeit liegen; 1 von 6: zeitlich unbegrenzt für Verstöße bis Vertragsende
 
 ## Berufe
-- [Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)](https://it-haftpflichtcheck.de/beruf/softwareentwicklung/): Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen): 4 von 6 Tarifen online berechenbar (andsafe, Markel Pro IT, Net IT by Hiscox, VHV Firmenprotect IT)
-- [Webdesign, Webentwicklung und Webpflege](https://it-haftpflichtcheck.de/beruf/webdesign/): Webdesign, Webentwicklung und Webpflege: 4 von 6 Tarifen online berechenbar (andsafe, Markel Pro IT, Net IT by Hiscox, VHV Firmenprotect IT)
-- [IT-Beratung, Consulting und Schulung](https://it-haftpflichtcheck.de/beruf/it-beratung/): IT-Beratung, Consulting und Schulung: 4 von 6 Tarifen online berechenbar (andsafe, Markel Pro IT, Net IT by Hiscox, VHV Firmenprotect IT)
-- [IT-Service, Systemhaus, Support, Netzwerk und Wartung](https://it-haftpflichtcheck.de/beruf/it-service/): IT-Service, Systemhaus, Support, Netzwerk und Wartung: 4 von 6 Tarifen online berechenbar (andsafe, Markel Pro IT, Net IT by Hiscox, VHV Firmenprotect IT)
-- [Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)](https://it-haftpflichtcheck.de/beruf/hosting-cloud/): Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS): 3 von 6 Tarifen online berechenbar (Markel Pro IT, Net IT by Hiscox, VHV Firmenprotect IT)
-- [Eigene Software als Online-Dienst (SaaS)](https://it-haftpflichtcheck.de/beruf/saas/): Eigene Software als Online-Dienst (SaaS): 3 von 6 Tarifen online berechenbar (Markel Pro IT, Net IT by Hiscox, VHV Firmenprotect IT)
-- [Datenerfassung, Datenbanken und Datenverarbeitung](https://it-haftpflichtcheck.de/beruf/datenverarbeitung/): Datenerfassung, Datenbanken und Datenverarbeitung: 4 von 6 Tarifen online berechenbar (andsafe, Markel Pro IT, Net IT by Hiscox, VHV Firmenprotect IT)
-- [IT-Sicherheit und Security-Dienstleistungen](https://it-haftpflichtcheck.de/beruf/it-sicherheit/): IT-Sicherheit und Security-Dienstleistungen: 4 von 6 Tarifen online berechenbar (andsafe, Markel Pro IT, Net IT by Hiscox, VHV Firmenprotect IT)
+- [Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen)](https://it-haftpflichtcheck.de/beruf/softwareentwicklung/): Softwareentwicklung (Individualsoftware, Apps, Web-Anwendungen): 6 von 6 Tarifen online berechenbar (andsafe, AXA IT-Police Haftpflicht Kompakt, Markel Pro IT, Net IT by Hiscox, VHV Firmenprotect IT, Zurich IT Safecare)
+- [Webdesign, Webentwicklung und Webpflege](https://it-haftpflichtcheck.de/beruf/webdesign/): Webdesign, Webentwicklung und Webpflege: 6 von 6 Tarifen online berechenbar (andsafe, AXA IT-Police Haftpflicht Kompakt, Markel Pro IT, Net IT by Hiscox, VHV Firmenprotect IT, Zurich IT Safecare)
+- [IT-Beratung, Consulting und Schulung](https://it-haftpflichtcheck.de/beruf/it-beratung/): IT-Beratung, Consulting und Schulung: 6 von 6 Tarifen online berechenbar (andsafe, AXA IT-Police Haftpflicht Kompakt, Markel Pro IT, Net IT by Hiscox, VHV Firmenprotect IT, Zurich IT Safecare)
+- [IT-Service, Systemhaus, Support, Netzwerk und Wartung](https://it-haftpflichtcheck.de/beruf/it-service/): IT-Service, Systemhaus, Support, Netzwerk und Wartung: 6 von 6 Tarifen online berechenbar (andsafe, AXA IT-Police Haftpflicht Kompakt, Markel Pro IT, Net IT by Hiscox, VHV Firmenprotect IT, Zurich IT Safecare)
+- [Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS)](https://it-haftpflichtcheck.de/beruf/hosting-cloud/): Hosting, Rechenzentrum und Cloud-Plattformen (IaaS, PaaS): 4 von 6 Tarifen online berechenbar (AXA IT-Police Haftpflicht Kompakt, Markel Pro IT, Net IT by Hiscox, VHV Firmenprotect IT)
+- [Eigene Software als Online-Dienst (SaaS)](https://it-haftpflichtcheck.de/beruf/saas/): Eigene Software als Online-Dienst (SaaS): 4 von 6 Tarifen online berechenbar (AXA IT-Police Haftpflicht Kompakt, Markel Pro IT, Net IT by Hiscox, VHV Firmenprotect IT)
+- [Datenerfassung, Datenbanken und Datenverarbeitung](https://it-haftpflichtcheck.de/beruf/datenverarbeitung/): Datenerfassung, Datenbanken und Datenverarbeitung: 6 von 6 Tarifen online berechenbar (andsafe, AXA IT-Police Haftpflicht Kompakt, Markel Pro IT, Net IT by Hiscox, VHV Firmenprotect IT, Zurich IT Safecare)
+- [IT-Sicherheit und Security-Dienstleistungen](https://it-haftpflichtcheck.de/beruf/it-sicherheit/): IT-Sicherheit und Security-Dienstleistungen: 6 von 6 Tarifen online berechenbar (andsafe, AXA IT-Police Haftpflicht Kompakt, Markel Pro IT, Net IT by Hiscox, VHV Firmenprotect IT, Zurich IT Safecare)
 - [Handel mit Hardware und Software (ohne eigene Entwicklung)](https://it-haftpflichtcheck.de/beruf/hard-softwarehandel/): Handel mit Hardware und Software (ohne eigene Entwicklung): 3 von 6 Tarifen online berechenbar (Markel Pro IT, Net IT by Hiscox, VHV Firmenprotect IT)
-- [IT-Sachverständiger, Gutachten](https://it-haftpflichtcheck.de/beruf/it-sachverstaendiger/): IT-Sachverständiger, Gutachten: 3 von 6 Tarifen online berechenbar (Markel Pro IT, Net IT by Hiscox, VHV Firmenprotect IT)
-- [Telekommunikation, Provider, Netzbetrieb](https://it-haftpflichtcheck.de/beruf/telekommunikation/): Telekommunikation, Provider, Netzbetrieb: 2 von 6 Tarifen online berechenbar (Markel Pro IT, Net IT by Hiscox)
+- [IT-Sachverständiger, Gutachten](https://it-haftpflichtcheck.de/beruf/it-sachverstaendiger/): IT-Sachverständiger, Gutachten: 4 von 6 Tarifen online berechenbar (Markel Pro IT, Net IT by Hiscox, VHV Firmenprotect IT, Zurich IT Safecare)
+- [Telekommunikation, Provider, Netzbetrieb](https://it-haftpflichtcheck.de/beruf/telekommunikation/): Telekommunikation, Provider, Netzbetrieb: 4 von 6 Tarifen online berechenbar (AXA IT-Police Haftpflicht Kompakt, Markel Pro IT, Net IT by Hiscox, Zurich IT Safecare)
 
 ## Kosten
 - [Softwareentwicklung und Webdesign](https://it-haftpflichtcheck.de/kosten/softwareentwicklung-und-webdesign/): Bei 250.000 € Umsatz und 1.000.000 € Versicherungssumme liegen die Jahresbeiträge von 3 online berechneten Tarifen zwischen 559,06 € und 577,15 €, inklusive Versicherungsteuer.
